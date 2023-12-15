@@ -5,9 +5,9 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"greeting": "Hello, World!", "message": "Welcome to FastAPI!"}
+    return {"KimPolar's API"}
 
-@app.get("/leaderboards/")
+@app.get("/pubg/leaderboards/")
 async def leader(season:str, server:str):
     with open('leaderboards.json') as f:
         a = json.load(f)
