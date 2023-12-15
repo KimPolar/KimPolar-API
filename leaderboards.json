@@ -63,6 +63,14 @@
 			"duo-fpp" : 4350,
 			"squad" : 6975,
 			"squad-fpp" : 5790
+		},
+		"pc-kakao" : {
+			"solo" : 3788,
+			"solo-fpp" : null,
+			"duo" : 3722,
+			"duo-fpp" : null,
+			"squad" : 5299,
+			"squad-fpp" : null
 		}
 	},
 	"division.bro.official.pc-2018-02" : {
@@ -129,6 +137,14 @@
 			"duo-fpp" : 6000,
 			"squad" : 6207,
 			"squad-fpp" : 6027	
+		},
+		"pc-sea" : {
+			"solo" : 6001,
+			"solo-fpp" : null,
+			"duo" : 6000,
+			"duo-fpp" : null,
+			"squad" : 6000,
+			"squad-fpp" : null	
 		}
 	},	
 	"division.bro.official.pc-2018-03" : {
@@ -195,6 +211,14 @@
 			"duo-fpp" : 6013,
 			"squad" : 6408,
 			"squad-fpp" : 6282	
+		},
+		"pc-kakao" : {
+			"solo" : 6000,
+			"solo-fpp" : null,
+			"duo" : 6000,
+			"duo-fpp" : null,
+			"squad" : 6186,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-04" : {
@@ -261,6 +285,14 @@
 			"duo-fpp" : 6108,
 			"squad" : 6579,
 			"squad-fpp" : 6437	
+		},
+		"pc-kakao" : {
+			"solo" : 6000,
+			"solo-fpp" : null,
+			"duo" : 6000,
+			"duo-fpp" : null,
+			"squad" : 6280,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-05" : {
@@ -327,6 +359,14 @@
 			"duo-fpp" : 6091,
 			"squad" : 6397,
 			"squad-fpp" : 6279	
+		},
+		"pc-kakao" : {
+			"solo" : 6000,
+			"solo-fpp" : null,
+			"duo" : 6000,
+			"duo-fpp" : null,
+			"squad" : 6194,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-06" : {
@@ -393,6 +433,14 @@
 			"duo-fpp" : 6027,
 			"squad" : 6315,
 			"squad-fpp" : 6199	
+		},
+		"pc-kakao" : {
+			"solo" : 6000,
+			"solo-fpp" : null,
+			"duo" : 6000,
+			"duo-fpp" : null,
+			"squad" : 6116,
+			"squad-fpp" : null
 		}
 	},
 	"division.bro.official.pc-2018-07" : {
@@ -459,6 +507,14 @@
 			"duo-fpp" : null,
 			"squad" : 3382,
 			"squad-fpp" : 3300	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3356,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-08" : {
@@ -525,6 +581,14 @@
 			"duo-fpp" : null,
 			"squad" : 3302,
 			"squad-fpp" : 3300
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3513,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-09" : {
@@ -591,6 +655,14 @@
 			"duo-fpp" : null,
 			"squad" : 3506,
 			"squad-fpp" : 3517
+		},
+		"pc-kakao" : {
+			"solo" : 3300,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3541,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-10" : {
@@ -657,6 +729,14 @@
 			"duo-fpp" : null,
 			"squad" : 3407,
 			"squad-fpp" : 3506	
+		},
+		"pc-kakao" : {
+			"solo" : 3300,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3541,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-11" : {
@@ -723,6 +803,14 @@
 			"duo-fpp" : null,
 			"squad" : 3307,
 			"squad-fpp" : 3518
+		},
+		"pc-kakao" : {
+			"solo" : 3303,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3450,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-12" : {
@@ -789,6 +877,14 @@
 			"duo-fpp" : null,
 			"squad" : 3361,
 			"squad-fpp" : 3519	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3511,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-13" : {
@@ -855,6 +951,14 @@
 			"duo-fpp" : null,
 			"squad" : 3308,
 			"squad-fpp" : 3501	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3459,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-14" : {
@@ -921,6 +1025,14 @@
 			"duo-fpp" : null,
 			"squad" : 3437,
 			"squad-fpp" : 3461
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3508,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-15" : {
@@ -987,6 +1099,14 @@
 			"duo-fpp" : null,
 			"squad" : 3531,
 			"squad-fpp" : 3521	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3515,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-16" : {
@@ -1053,6 +1173,14 @@
 			"duo-fpp" : null,
 			"squad" : 3511,
 			"squad-fpp" : 3525
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3506,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-17" : {
@@ -1119,6 +1247,14 @@
 			"duo-fpp" : null,
 			"squad" : 3432,
 			"squad-fpp" : 3509	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3517,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-18" : {
@@ -1185,6 +1321,14 @@
 			"duo-fpp" : null,
 			"squad" : 3518,
 			"squad-fpp" : 3513	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3527,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-19" : {
@@ -1251,6 +1395,14 @@
 			"duo-fpp" : null,
 			"squad" : 3519,
 			"squad-fpp" : 3535	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3542,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-20" : {
@@ -1317,6 +1469,14 @@
 			"duo-fpp" : null,
 			"squad" : 3528,
 			"squad-fpp" : 3510
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3529,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-21" : {
@@ -1383,6 +1543,14 @@
 			"duo-fpp" : null,
 			"squad" : 3579,
 			"squad-fpp" : 3598	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3545,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-22" : {
@@ -1449,6 +1617,14 @@
 			"duo-fpp" : null,
 			"squad" : 3514,
 			"squad-fpp" : 3509	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3522,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-23" : {
@@ -1515,6 +1691,14 @@
 			"duo-fpp" : null,
 			"squad" : 3538,
 			"squad-fpp" : 3542	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3550,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-24" : {
@@ -1581,6 +1765,14 @@
 			"duo-fpp" : null,
 			"squad" : 3534,
 			"squad-fpp" : 3516	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3555,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-25" : {
@@ -1647,6 +1839,14 @@
 			"duo-fpp" : null,
 			"squad" : 3573,
 			"squad-fpp" : 3560	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3543,
+			"squad-fpp" : null
 		}
 	},	
 	"division.bro.official.pc-2018-26" : {
@@ -1713,6 +1913,14 @@
 			"duo-fpp" : null,
 			"squad" : 3550,
 			"squad-fpp" : 3521	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3549,
+			"squad-fpp" : null
 		}
 	}				 
 }
