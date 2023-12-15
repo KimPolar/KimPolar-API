@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"KimPolar's API"}
+    return "KimPolar's API"
 
 @app.get("/pubg/leaderboards/")
 async def leader(season:str, server:str):
