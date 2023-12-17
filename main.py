@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import krmetro as km
-import json
+import json, random
 
 app = FastAPI()
 
@@ -17,3 +17,9 @@ async def leader(season:str, server:str):
 @app.get("/metro/korea/")
 async def krmetro(lineNum:str):
     return km.getData(lineNum)
+
+@app.get("/quote/")
+async def quote():
+    with open('quote.json') as f:
+        a = json.load(f)
+    return random.choice(a)
