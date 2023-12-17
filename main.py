@@ -1,6 +1,5 @@
 from fastapi import FastAPI
-import krmetro as km
-import json, random
+import krmetro as km, hangang as hg, json, random
 
 app = FastAPI()
 
@@ -23,3 +22,7 @@ async def quote():
     with open('quote.json') as f:
         a = json.load(f)
     return random.choice(a)
+
+@app.get("/hangang/")
+async def hangang():
+    return hg.hangang()
