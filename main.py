@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+import krmetro as km
 import json
 
 app = FastAPI()
@@ -12,3 +13,7 @@ async def leader(season:str, server:str):
     with open('leaderboards.json') as f:
         a = json.load(f)
     return a[season][server]
+
+@app.get("/metro/korea/")
+async def krmetro(lineNum:str):
+    return km(lineNum)
