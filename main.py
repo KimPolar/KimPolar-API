@@ -16,4 +16,4 @@ async def leader(season:str, server:str):
 
 @app.get("/metro/korea/")
 async def krmetro(lineNum:str):
-    return km(lineNum)
+    return km.getData(lineNum)
