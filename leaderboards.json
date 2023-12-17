@@ -6,7 +6,7 @@
 			"duo" : 4568,
 			"duo-fpp" : 4350,
 			"squad" : 6975,
-			"squad-fpp" : 5790
+			"squad-fpp" :  5790
 		},
 		"pc-eu" : {
 			"solo" : 4932,
@@ -14,7 +14,7 @@
 			"duo" : 4568,
 			"duo-fpp" : 4350,
 			"squad" : 6975,
-			"squad-fpp" : 5790
+			"squad-fpp" :  5790
 		},
 		"pc-krjp" : {
 			"solo" : 4932,
@@ -22,7 +22,7 @@
 			"duo" : 4568,
 			"duo-fpp" : 4350,
 			"squad" : 6975,
-			"squad-fpp" : 5790
+			"squad-fpp" :  5790
 		},
 		"pc-na" : {
 			"solo" : 4932,
@@ -30,7 +30,7 @@
 			"duo" : 4568,
 			"duo-fpp" : 4350,
 			"squad" : 6975,
-			"squad-fpp" : 5790
+			"squad-fpp" :  5790
 		},
 		"pc-oc" : {
 			"solo" : 4932,
@@ -38,7 +38,7 @@
 			"duo" : 4568,
 			"duo-fpp" : 4350,
 			"squad" : 6975,
-			"squad-fpp" : 5790
+			"squad-fpp" :  5790
 		},
 		"pc-ru" : {
 			"solo" : 4932,
@@ -46,7 +46,7 @@
 			"duo" : 4568,
 			"duo-fpp" : 4350,
 			"squad" : 6975,
-			"squad-fpp" : 5790
+			"squad-fpp" :  5790
 		},
 		"pc-sa" : {
 			"solo" : 4932,
@@ -54,7 +54,7 @@
 			"duo" : 4568,
 			"duo-fpp" : 4350,
 			"squad" : 6975,
-			"squad-fpp" : 5790
+			"squad-fpp" :  5790
 		},
 		"pc-sea" : {
 			"solo" : 4932,
@@ -62,7 +62,7 @@
 			"duo" : 4568,
 			"duo-fpp" : 4350,
 			"squad" : 6975,
-			"squad-fpp" : 5790
+			"squad-fpp" :  5790
 		},
 		"pc-kakao" : {
 			"solo" : 3788,
@@ -70,7 +70,7 @@
 			"duo" : 3722,
 			"duo-fpp" : null,
 			"squad" : 5299,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},
 	"division.bro.official.pc-2018-02" : {
@@ -80,7 +80,7 @@
 			"duo" : 6000,
 			"duo-fpp" : 6000,
 			"squad" : 6207,
-			"squad-fpp" : 6027	
+			"squad-fpp" :  6027	
 		},
 		"pc-eu" : {
 			"solo" : 6000,
@@ -88,7 +88,7 @@
 			"duo" : 6000,
 			"duo-fpp" : 6000,
 			"squad" : 6207,
-			"squad-fpp" : 6027	
+			"squad-fpp" :  6027	
 		},
 		"pc-krjp" : {
 			"solo" : 6000,
@@ -96,7 +96,7 @@
 			"duo" : 6000,
 			"duo-fpp" : 6000,
 			"squad" : 6207,
-			"squad-fpp" : 6027	
+			"squad-fpp" :  6027	
 		},
 		"pc-na" : {
 			"solo" : 6000,
@@ -104,7 +104,7 @@
 			"duo" : 6000,
 			"duo-fpp" : 6000,
 			"squad" : 6207,
-			"squad-fpp" : 6027	
+			"squad-fpp" :  6027	
 		},
 		"pc-oc" : {
 			"solo" : 6000,
@@ -112,7 +112,7 @@
 			"duo" : 6000,
 			"duo-fpp" : 6000,
 			"squad" : 6207,
-			"squad-fpp" : 6027	
+			"squad-fpp" :  6027	
 		},
 		"pc-ru" : {
 			"solo" : 6000,
@@ -120,7 +120,7 @@
 			"duo" : 6000,
 			"duo-fpp" : 6000,
 			"squad" : 6207,
-			"squad-fpp" : 6027	
+			"squad-fpp" :  6027	
 		},
 		"pc-sa" : {
 			"solo" : 6000,
@@ -128,7 +128,7 @@
 			"duo" : 6000,
 			"duo-fpp" : 6000,
 			"squad" : 6207,
-			"squad-fpp" : 6027	
+			"squad-fpp" :  6027	
 		},
 		"pc-sea" : {
 			"solo" : 6000,
@@ -136,7 +136,7 @@
 			"duo" : 6000,
 			"duo-fpp" : 6000,
 			"squad" : 6207,
-			"squad-fpp" : 6027	
+			"squad-fpp" :  6027	
 		},
 		"pc-sea" : {
 			"solo" : 6001,
@@ -144,7 +144,7 @@
 			"duo" : 6000,
 			"duo-fpp" : null,
 			"squad" : 6000,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		}
 	},	
 	"division.bro.official.pc-2018-03" : {
@@ -154,7 +154,7 @@
 			"duo" : 6013,
 			"duo-fpp" : 6013,
 			"squad" : 6408,
-			"squad-fpp" : 6282	
+			"squad-fpp" :  6282	
 		},
 		"pc-eu" : {
 			"solo" : 6046,
@@ -162,7 +162,7 @@
 			"duo" : 6013,
 			"duo-fpp" : 6013,
 			"squad" : 6408,
-			"squad-fpp" : 6282	
+			"squad-fpp" :  6282	
 		},
 		"pc-krjp" : {
 			"solo" : 6046,
@@ -170,7 +170,7 @@
 			"duo" : 6013,
 			"duo-fpp" : 6013,
 			"squad" : 6408,
-			"squad-fpp" : 6282	
+			"squad-fpp" :  6282	
 		},
 		"pc-na" : {
 			"solo" : 6046,
@@ -178,7 +178,7 @@
 			"duo" : 6013,
 			"duo-fpp" : 6013,
 			"squad" : 6408,
-			"squad-fpp" : 6282	
+			"squad-fpp" :  6282	
 		},
 		"pc-oc" : {
 			"solo" : 6046,
@@ -186,7 +186,7 @@
 			"duo" : 6013,
 			"duo-fpp" : 6013,
 			"squad" : 6408,
-			"squad-fpp" : 6282	
+			"squad-fpp" :  6282	
 		},
 		"pc-ru" : {
 			"solo" : 6046,
@@ -194,7 +194,7 @@
 			"duo" : 6013,
 			"duo-fpp" : 6013,
 			"squad" : 6408,
-			"squad-fpp" : 6282	
+			"squad-fpp" :  6282	
 		},
 		"pc-sa" : {
 			"solo" : 6046,
@@ -202,7 +202,7 @@
 			"duo" : 6013,
 			"duo-fpp" : 6013,
 			"squad" : 6408,
-			"squad-fpp" : 6282	
+			"squad-fpp" :  6282	
 		},
 		"pc-sea" : {
 			"solo" : 6046,
@@ -210,7 +210,7 @@
 			"duo" : 6013,
 			"duo-fpp" : 6013,
 			"squad" : 6408,
-			"squad-fpp" : 6282	
+			"squad-fpp" :  6282	
 		},
 		"pc-kakao" : {
 			"solo" : 6000,
@@ -218,7 +218,7 @@
 			"duo" : 6000,
 			"duo-fpp" : null,
 			"squad" : 6186,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-04" : {
@@ -228,7 +228,7 @@
 			"duo" : 6124,
 			"duo-fpp" : 6108,
 			"squad" : 6579,
-			"squad-fpp" : 6437	
+			"squad-fpp" :  6437	
 		},
 		"pc-eu" : {
 			"solo" : 6175,
@@ -236,7 +236,7 @@
 			"duo" : 6124,
 			"duo-fpp" : 6108,
 			"squad" : 6579,
-			"squad-fpp" : 6437	
+			"squad-fpp" :  6437	
 		},
 		"pc-krjp" : {
 			"solo" : 6175,
@@ -244,7 +244,7 @@
 			"duo" : 6124,
 			"duo-fpp" : 6108,
 			"squad" : 6579,
-			"squad-fpp" : 6437	
+			"squad-fpp" :  6437	
 		},
 		"pc-na" : {
 			"solo" : 6175,
@@ -252,7 +252,7 @@
 			"duo" : 6124,
 			"duo-fpp" : 6108,
 			"squad" : 6579,
-			"squad-fpp" : 6437	
+			"squad-fpp" :  6437	
 		},
 		"pc-oc" : {
 			"solo" : 6175,
@@ -260,7 +260,7 @@
 			"duo" : 6124,
 			"duo-fpp" : 6108,
 			"squad" : 6579,
-			"squad-fpp" : 6437	
+			"squad-fpp" :  6437	
 		},
 		"pc-ru" : {
 			"solo" : 6175,
@@ -268,7 +268,7 @@
 			"duo" : 6124,
 			"duo-fpp" : 6108,
 			"squad" : 6579,
-			"squad-fpp" : 6437	
+			"squad-fpp" :  6437	
 		},
 		"pc-sa" : {
 			"solo" : 6175,
@@ -276,7 +276,7 @@
 			"duo" : 6124,
 			"duo-fpp" : 6108,
 			"squad" : 6579,
-			"squad-fpp" : 6437	
+			"squad-fpp" :  6437	
 		},
 		"pc-sea" : {
 			"solo" : 6175,
@@ -284,7 +284,7 @@
 			"duo" : 6124,
 			"duo-fpp" : 6108,
 			"squad" : 6579,
-			"squad-fpp" : 6437	
+			"squad-fpp" :  6437	
 		},
 		"pc-kakao" : {
 			"solo" : 6000,
@@ -292,7 +292,7 @@
 			"duo" : 6000,
 			"duo-fpp" : null,
 			"squad" : 6280,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-05" : {
@@ -302,7 +302,7 @@
 			"duo" : 6098,
 			"duo-fpp" : 6091,
 			"squad" : 6397,
-			"squad-fpp" : 6279	
+			"squad-fpp" :  6279	
 		},
 		"pc-eu" : {
 			"solo" : 6157,
@@ -310,7 +310,7 @@
 			"duo" : 6098,
 			"duo-fpp" : 6091,
 			"squad" : 6397,
-			"squad-fpp" : 6279	
+			"squad-fpp" :  6279	
 		},
 		"pc-krjp" : {
 			"solo" : 6157,
@@ -318,7 +318,7 @@
 			"duo" : 6098,
 			"duo-fpp" : 6091,
 			"squad" : 6397,
-			"squad-fpp" : 6279	
+			"squad-fpp" :  6279	
 		},
 		"pc-na" : {
 			"solo" : 6157,
@@ -326,7 +326,7 @@
 			"duo" : 6098,
 			"duo-fpp" : 6091,
 			"squad" : 6397,
-			"squad-fpp" : 6279	
+			"squad-fpp" :  6279	
 		},
 		"pc-oc" : {
 			"solo" : 6157,
@@ -334,7 +334,7 @@
 			"duo" : 6098,
 			"duo-fpp" : 6091,
 			"squad" : 6397,
-			"squad-fpp" : 6279	
+			"squad-fpp" :  6279	
 		},
 		"pc-ru" : {
 			"solo" : 6157,
@@ -342,7 +342,7 @@
 			"duo" : 6098,
 			"duo-fpp" : 6091,
 			"squad" : 6397,
-			"squad-fpp" : 6279	
+			"squad-fpp" :  6279	
 		},
 		"pc-sa" : {
 			"solo" : 6157,
@@ -350,7 +350,7 @@
 			"duo" : 6098,
 			"duo-fpp" : 6091,
 			"squad" : 6397,
-			"squad-fpp" : 6279	
+			"squad-fpp" :  6279	
 		},
 		"pc-sea" : {
 			"solo" : 6157,
@@ -358,7 +358,7 @@
 			"duo" : 6098,
 			"duo-fpp" : 6091,
 			"squad" : 6397,
-			"squad-fpp" : 6279	
+			"squad-fpp" :  6279	
 		},
 		"pc-kakao" : {
 			"solo" : 6000,
@@ -366,7 +366,7 @@
 			"duo" : 6000,
 			"duo-fpp" : null,
 			"squad" : 6194,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-06" : {
@@ -376,7 +376,7 @@
 			"duo" : 6072,
 			"duo-fpp" : 6027,
 			"squad" : 6315,
-			"squad-fpp" : 6199	
+			"squad-fpp" :  6199	
 		},
 		"pc-eu" : {
 			"solo" : 6147,
@@ -384,7 +384,7 @@
 			"duo" : 6072,
 			"duo-fpp" : 6027,
 			"squad" : 6315,
-			"squad-fpp" : 6199	
+			"squad-fpp" :  6199	
 		},
 		"pc-krjp" : {
 			"solo" : 6147,
@@ -392,7 +392,7 @@
 			"duo" : 6072,
 			"duo-fpp" : 6027,
 			"squad" : 6315,
-			"squad-fpp" : 6199	
+			"squad-fpp" :  6199	
 		},
 		"pc-na" : {
 			"solo" : 6147,
@@ -400,7 +400,7 @@
 			"duo" : 6072,
 			"duo-fpp" : 6027,
 			"squad" : 6315,
-			"squad-fpp" : 6199	
+			"squad-fpp" :  6199	
 		},
 		"pc-oc" : {
 			"solo" : 6147,
@@ -408,7 +408,7 @@
 			"duo" : 6072,
 			"duo-fpp" : 6027,
 			"squad" : 6315,
-			"squad-fpp" : 6199	
+			"squad-fpp" :  6199	
 		},
 		"pc-ru" : {
 			"solo" : 6147,
@@ -416,7 +416,7 @@
 			"duo" : 6072,
 			"duo-fpp" : 6027,
 			"squad" : 6315,
-			"squad-fpp" : 6199	
+			"squad-fpp" :  6199	
 		},
 		"pc-sa" : {
 			"solo" : 6147,
@@ -424,7 +424,7 @@
 			"duo" : 6072,
 			"duo-fpp" : 6027,
 			"squad" : 6315,
-			"squad-fpp" : 6199	
+			"squad-fpp" :  6199	
 		},
 		"pc-sea" : {
 			"solo" : 6147,
@@ -432,7 +432,7 @@
 			"duo" : 6072,
 			"duo-fpp" : 6027,
 			"squad" : 6315,
-			"squad-fpp" : 6199	
+			"squad-fpp" :  6199	
 		},
 		"pc-kakao" : {
 			"solo" : 6000,
@@ -440,7 +440,7 @@
 			"duo" : 6000,
 			"duo-fpp" : null,
 			"squad" : 6116,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},
 	"division.bro.official.pc-2018-07" : {
@@ -450,7 +450,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3581,
-			"squad-fpp" : 3508
+			"squad-fpp" :  3508
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -458,7 +458,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3301,
-			"squad-fpp" : 3301			
+			"squad-fpp" :  3301			
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -466,7 +466,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3300,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -474,7 +474,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3300,
-			"squad-fpp" : 3300	
+			"squad-fpp" :  3300	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -482,7 +482,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3512,
-			"squad-fpp" : 3301	
+			"squad-fpp" :  3301	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -490,7 +490,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3306,
-			"squad-fpp" : 3300	
+			"squad-fpp" :  3300	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -498,7 +498,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3314,
-			"squad-fpp" : 3300	
+			"squad-fpp" :  3300	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -506,7 +506,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3382,
-			"squad-fpp" : 3300	
+			"squad-fpp" :  3300	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -514,7 +514,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3356,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-08" : {
@@ -524,7 +524,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3511,
-			"squad-fpp" : 3346
+			"squad-fpp" :  3346
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -532,7 +532,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3304,
-			"squad-fpp" : 3300
+			"squad-fpp" :  3300
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -540,7 +540,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3301,
-			"squad-fpp" : 3311
+			"squad-fpp" :  3311
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -548,7 +548,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3301,
-			"squad-fpp" : 3324	
+			"squad-fpp" :  3324	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -556,7 +556,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -564,7 +564,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3303,
-			"squad-fpp" : 3300	
+			"squad-fpp" :  3300	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -572,7 +572,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3307	
+			"squad-fpp" :  3307	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -580,7 +580,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3302,
-			"squad-fpp" : 3300
+			"squad-fpp" :  3300
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -588,7 +588,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3513,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-09" : {
@@ -598,7 +598,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3706,
-			"squad-fpp" : 3623
+			"squad-fpp" :  3623
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -606,7 +606,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3021,
-			"squad-fpp" : 3426	
+			"squad-fpp" :  3426	
 		},
 		"pc-krjp" : {
 			"solo" : 3309,
@@ -614,7 +614,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3501,
-			"squad-fpp" : 3314
+			"squad-fpp" :  3314
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -622,7 +622,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2366	
+			"squad-fpp" :  2366	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -630,7 +630,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -638,7 +638,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3348
+			"squad-fpp" :  3348
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -646,7 +646,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3096
+			"squad-fpp" :  3096
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -654,7 +654,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3506,
-			"squad-fpp" : 3517
+			"squad-fpp" :  3517
 		},
 		"pc-kakao" : {
 			"solo" : 3300,
@@ -662,7 +662,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3541,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-10" : {
@@ -672,7 +672,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3882,
-			"squad-fpp" : 3723
+			"squad-fpp" :  3723
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -680,7 +680,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3321,
-			"squad-fpp" : 3386
+			"squad-fpp" :  3386
 		},
 		"pc-krjp" : {
 			"solo" : 3316,
@@ -688,7 +688,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3300,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -696,7 +696,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2007	
+			"squad-fpp" :  2007	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -704,7 +704,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -712,7 +712,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3366	
+			"squad-fpp" :  3366	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -720,7 +720,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -728,7 +728,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3407,
-			"squad-fpp" : 3506	
+			"squad-fpp" :  3506	
 		},
 		"pc-kakao" : {
 			"solo" : 3300,
@@ -736,7 +736,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3541,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-11" : {
@@ -746,7 +746,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 4008,
-			"squad-fpp" : 3799	
+			"squad-fpp" :  3799	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -754,7 +754,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3530,
-			"squad-fpp" : 3422	
+			"squad-fpp" :  3422	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -762,7 +762,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3318,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -770,7 +770,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -778,7 +778,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -786,7 +786,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3526	
+			"squad-fpp" :  3526	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -794,7 +794,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -802,7 +802,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3307,
-			"squad-fpp" : 3518
+			"squad-fpp" :  3518
 		},
 		"pc-kakao" : {
 			"solo" : 3303,
@@ -810,7 +810,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3450,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-12" : {
@@ -820,7 +820,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3950,
-			"squad-fpp" : 3734	
+			"squad-fpp" :  3734	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -828,7 +828,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3519,
-			"squad-fpp" : 3437	
+			"squad-fpp" :  3437	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -836,7 +836,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3462,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -844,7 +844,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -852,7 +852,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -860,7 +860,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3536
+			"squad-fpp" :  3536
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -868,7 +868,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -876,7 +876,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3361,
-			"squad-fpp" : 3519	
+			"squad-fpp" :  3519	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -884,7 +884,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3511,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-13" : {
@@ -894,7 +894,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3634,
-			"squad-fpp" : 3524	
+			"squad-fpp" :  3524	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -902,7 +902,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3138,
-			"squad-fpp" : 3300	
+			"squad-fpp" :  3300	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -910,7 +910,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3317,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -918,7 +918,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2412	
+			"squad-fpp" :  2412	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -926,7 +926,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -934,7 +934,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3399	
+			"squad-fpp" :  3399	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -942,7 +942,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3033	
+			"squad-fpp" :  3033	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -950,7 +950,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3308,
-			"squad-fpp" : 3501	
+			"squad-fpp" :  3501	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -958,7 +958,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3459,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-14" : {
@@ -968,7 +968,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3571,
-			"squad-fpp" : 3527	
+			"squad-fpp" :  3527	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -976,7 +976,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3214,
-			"squad-fpp" : 3317
+			"squad-fpp" :  3317
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -984,7 +984,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3380,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -992,7 +992,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1000,7 +1000,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1008,7 +1008,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3387	
+			"squad-fpp" :  3387	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1016,7 +1016,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3138	
+			"squad-fpp" :  3138	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1024,7 +1024,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3437,
-			"squad-fpp" : 3461
+			"squad-fpp" :  3461
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1032,7 +1032,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3508,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-15" : {
@@ -1042,7 +1042,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3740,
-			"squad-fpp" : 3678
+			"squad-fpp" :  3678
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1050,7 +1050,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3377,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1058,7 +1058,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3510,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1066,7 +1066,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2002
+			"squad-fpp" :  2002
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1074,7 +1074,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1082,7 +1082,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3558
+			"squad-fpp" :  3558
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1090,7 +1090,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3203
+			"squad-fpp" :  3203
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1098,7 +1098,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3531,
-			"squad-fpp" : 3521	
+			"squad-fpp" :  3521	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1106,7 +1106,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3515,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-16" : {
@@ -1116,7 +1116,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3625,
-			"squad-fpp" : 3570	
+			"squad-fpp" :  3570	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1124,7 +1124,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3400,
-			"squad-fpp" : 3383	
+			"squad-fpp" :  3383	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1132,7 +1132,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3500,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1140,7 +1140,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2002
+			"squad-fpp" :  2002
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1148,7 +1148,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1156,7 +1156,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3532
+			"squad-fpp" :  3532
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1164,7 +1164,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3160
+			"squad-fpp" :  3160
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1172,7 +1172,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3511,
-			"squad-fpp" : 3525
+			"squad-fpp" :  3525
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1180,7 +1180,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3506,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-17" : {
@@ -1190,7 +1190,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3610,
-			"squad-fpp" : 3570	
+			"squad-fpp" :  3570	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1198,7 +1198,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3224,
-			"squad-fpp" : 3421
+			"squad-fpp" :  3421
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1206,7 +1206,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3262,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1214,7 +1214,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2000	
+			"squad-fpp" :  2000	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1222,7 +1222,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1230,7 +1230,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3511	
+			"squad-fpp" :  3511	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1238,7 +1238,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3117	
+			"squad-fpp" :  3117	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1246,7 +1246,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3432,
-			"squad-fpp" : 3509	
+			"squad-fpp" :  3509	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1254,7 +1254,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3517,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-18" : {
@@ -1264,7 +1264,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3646,
-			"squad-fpp" : 3626	
+			"squad-fpp" :  3626	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1272,7 +1272,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3233,
-			"squad-fpp" : 3501	
+			"squad-fpp" :  3501	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1280,7 +1280,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3255,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1288,7 +1288,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2032	
+			"squad-fpp" :  2032	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1296,7 +1296,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2025
+			"squad-fpp" :  2025
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1304,7 +1304,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3503	
+			"squad-fpp" :  3503	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1312,7 +1312,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3136	
+			"squad-fpp" :  3136	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1320,7 +1320,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3518,
-			"squad-fpp" : 3513	
+			"squad-fpp" :  3513	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1328,7 +1328,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3527,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-19" : {
@@ -1338,7 +1338,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3640,
-			"squad-fpp" : 3644	
+			"squad-fpp" :  3644	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1346,7 +1346,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3298,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1354,7 +1354,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3334,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1362,7 +1362,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2628	
+			"squad-fpp" :  2628	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1370,7 +1370,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2000	
+			"squad-fpp" :  2000	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1378,7 +1378,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3505	
+			"squad-fpp" :  3505	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1386,7 +1386,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3144	
+			"squad-fpp" :  3144	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1394,7 +1394,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3519,
-			"squad-fpp" : 3535	
+			"squad-fpp" :  3535	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1402,7 +1402,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3542,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-20" : {
@@ -1412,7 +1412,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3662,
-			"squad-fpp" : 3629	
+			"squad-fpp" :  3629	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1420,7 +1420,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3322,
-			"squad-fpp" : 3506	
+			"squad-fpp" :  3506	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1428,7 +1428,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3312,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1436,7 +1436,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2823	
+			"squad-fpp" :  2823	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1444,7 +1444,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2443	
+			"squad-fpp" :  2443	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1452,7 +1452,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3519	
+			"squad-fpp" :  3519	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1460,7 +1460,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3110	
+			"squad-fpp" :  3110	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1468,7 +1468,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3528,
-			"squad-fpp" : 3510
+			"squad-fpp" :  3510
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1476,7 +1476,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3529,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-21" : {
@@ -1486,7 +1486,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3810,
-			"squad-fpp" : 3712	
+			"squad-fpp" :  3712	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1494,7 +1494,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3487,
-			"squad-fpp" : 3533	
+			"squad-fpp" :  3533	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1502,7 +1502,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3423,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1510,7 +1510,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2722	
+			"squad-fpp" :  2722	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1518,7 +1518,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2884	
+			"squad-fpp" :  2884	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1526,7 +1526,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3548	
+			"squad-fpp" :  3548	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1534,7 +1534,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3120	
+			"squad-fpp" :  3120	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1542,7 +1542,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3579,
-			"squad-fpp" : 3598	
+			"squad-fpp" :  3598	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1550,7 +1550,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3545,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-22" : {
@@ -1560,7 +1560,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3651,
-			"squad-fpp" : 3592	
+			"squad-fpp" :  3592	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1568,7 +1568,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3522,
-			"squad-fpp" : 3521	
+			"squad-fpp" :  3521	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1576,7 +1576,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3515,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1584,7 +1584,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3042	
+			"squad-fpp" :  3042	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1592,7 +1592,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3133
+			"squad-fpp" :  3133
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1600,7 +1600,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3523	
+			"squad-fpp" :  3523	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1608,7 +1608,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3162	
+			"squad-fpp" :  3162	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1616,7 +1616,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3514,
-			"squad-fpp" : 3509	
+			"squad-fpp" :  3509	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1624,7 +1624,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3522,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-23" : {
@@ -1634,7 +1634,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3632,
-			"squad-fpp" : 3625	
+			"squad-fpp" :  3625	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1642,7 +1642,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3301,
-			"squad-fpp" : 3529
+			"squad-fpp" :  3529
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1650,7 +1650,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3306,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1658,7 +1658,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2955	
+			"squad-fpp" :  2955	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1666,7 +1666,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2961	
+			"squad-fpp" :  2961	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1674,7 +1674,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3533
+			"squad-fpp" :  3533
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1682,7 +1682,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3113	
+			"squad-fpp" :  3113	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1690,7 +1690,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3538,
-			"squad-fpp" : 3542	
+			"squad-fpp" :  3542	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1698,7 +1698,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3550,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-24" : {
@@ -1708,7 +1708,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3609,
-			"squad-fpp" : 3536	
+			"squad-fpp" :  3536	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1716,7 +1716,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3312,
-			"squad-fpp" : 3516	
+			"squad-fpp" :  3516	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1724,7 +1724,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3503,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1732,7 +1732,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2619	
+			"squad-fpp" :  2619	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1740,7 +1740,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2847	
+			"squad-fpp" :  2847	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1748,7 +1748,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3508
+			"squad-fpp" :  3508
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1756,7 +1756,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3087	
+			"squad-fpp" :  3087	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1764,7 +1764,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3534,
-			"squad-fpp" : 3516	
+			"squad-fpp" :  3516	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1772,7 +1772,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3555,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-25" : {
@@ -1782,7 +1782,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3637,
-			"squad-fpp" : 3577	
+			"squad-fpp" :  3577	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1790,7 +1790,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3508,
-			"squad-fpp" : 3528	
+			"squad-fpp" :  3528	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1798,7 +1798,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3504,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1806,7 +1806,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2924
+			"squad-fpp" :  2924
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1814,7 +1814,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 2683
+			"squad-fpp" :  2683
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1822,7 +1822,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3531
+			"squad-fpp" :  3531
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1830,7 +1830,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3124	
+			"squad-fpp" :  3124	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1838,7 +1838,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3573,
-			"squad-fpp" : 3560	
+			"squad-fpp" :  3560	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1846,7 +1846,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3543,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
 	},	
 	"division.bro.official.pc-2018-26" : {
@@ -1856,7 +1856,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3587,
-			"squad-fpp" : 3567 	
+			"squad-fpp" :  3567 	
 		},
 		"pc-eu" : {
 			"solo" : null,
@@ -1864,7 +1864,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3505,
-			"squad-fpp" : 3511	
+			"squad-fpp" :  3511	
 		},
 		"pc-krjp" : {
 			"solo" : null,
@@ -1872,7 +1872,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3501,
-			"squad-fpp" : null	
+			"squad-fpp" :  null	
 		},
 		"pc-na" : {
 			"solo" : null,
@@ -1880,7 +1880,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3000	
+			"squad-fpp" :  3000	
 		},
 		"pc-oc" : {
 			"solo" : null,
@@ -1888,7 +1888,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3078	
+			"squad-fpp" :  3078	
 		},
 		"pc-ru" : {
 			"solo" : null,
@@ -1896,7 +1896,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" :3517 	
+			"squad-fpp" :  3517 	
 		},
 		"pc-sa" : {
 			"solo" : null,
@@ -1904,7 +1904,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : null,
-			"squad-fpp" : 3098	
+			"squad-fpp" :  3098	
 		},
 		"pc-sea" : {
 			"solo" : null,
@@ -1912,7 +1912,7 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3550,
-			"squad-fpp" : 3521	
+			"squad-fpp" :  3521	
 		},
 		"pc-kakao" : {
 			"solo" : null,
@@ -1920,7 +1920,1857 @@
 			"duo" : null,
 			"duo-fpp" : null,
 			"squad" : 3549,
-			"squad-fpp" : null
+			"squad-fpp" :  null
 		}
-	}				 
+	},	
+	"division.bro.official.pc-2018-27" : {
+		"pc-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"pc-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"pc-krjp" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"pc-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"pc-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"pc-ru" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"pc-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"pc-sea" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"pc-kakao" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		}
+	},	
+	"division.bro.official.console-04" : {
+		"psn-as" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 	
+		},
+		"psn-eu" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 	
+		},
+		"psn-na" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 		
+		},
+		"psn-oc" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-as" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-eu" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-na" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-oc" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-sa" : {
+			"solo" : 6285,
+			"solo-fpp" : null,
+			"duo" : 6089,
+			"duo-fpp" : 6001,
+			"squad" : 6953,
+			"squad-fpp" :  6000 	
+		}
+	},	
+	"division.bro.official.console-05" : {
+		"psn-as" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 	
+		},
+		"psn-eu" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 		
+		},
+		"psn-na" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 		
+		},
+		"psn-oc" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-as" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-eu" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 	 	
+		},
+		"xbox-na" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 		
+		},
+		"xbox-oc" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 		
+		},
+		"xbox-sa" : {
+			"solo" : 6101,
+			"solo-fpp" : 6004,
+			"duo" : 6046,
+			"duo-fpp" : 6000,
+			"squad" : 6275,
+			"squad-fpp" :  6000 	
+		}
+	},	
+	"division.bro.official.console-06" : {
+		"psn-as" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 	
+		},
+		"psn-eu" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 		
+		},
+		"psn-na" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 	 		
+		},
+		"psn-oc" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-as" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 	
+		},
+		"xbox-eu" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 		 	
+		},
+		"xbox-na" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 			
+		},
+		"xbox-oc" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 		
+		},
+		"xbox-sa" : {
+			"solo" : 6044,
+			"solo-fpp" : null,
+			"duo" : 6015,
+			"duo-fpp" : 6013,
+			"squad" : 6185,
+			"squad-fpp" :  6000 		
+		}
+	},	
+	"division.bro.official.console-07" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3308,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3300,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3524,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3308,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3300,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3524,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3300,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-08" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3300,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3640,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3300,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3640,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3300,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-09" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : 2000,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3407,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : 3300,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3714,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : 2000,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3407,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : 3300,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3714,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2586,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-10" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3302,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3359,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : 3300,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3532,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3302,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3359,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : 3300,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3532,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2321,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-11" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3311,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3443,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3647,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3311,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3443,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3647,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2001,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-12" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3375,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3595,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3375,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3595,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3033,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-13" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3323,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3502,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3323,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3502,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2965,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-14" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3313,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3514,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3313,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3514,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2902,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-15" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3334,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3520,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3334,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3520,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2729,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-16" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3231,
+			"squad-fpp" :  2606 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3476,
+			"squad-fpp" :  2981 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3231,
+			"squad-fpp" :  2606 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3476,
+			"squad-fpp" :  2981 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2002,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-17" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3213,
+			"squad-fpp" :  null 			
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3501,
+			"squad-fpp" :  2127 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3213,
+			"squad-fpp" :  null 		 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3501,
+			"squad-fpp" :  2127 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-18" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3222,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3513,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3222,
+			"squad-fpp" :  null 	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3513,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-19" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3247,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3519,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3247,
+			"squad-fpp" :  null 		 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3519,
+			"squad-fpp" :  null 			
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-20" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3204,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3513,
+			"squad-fpp" :  null 			
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3204,
+			"squad-fpp" :  null 		
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3513,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-21" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3242,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3510,
+			"squad-fpp" :  null 		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3242,
+			"squad-fpp" :  null 		 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3510,
+			"squad-fpp" :  null 		
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 		
+		}
+	},	
+	"division.bro.official.console-22" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	 	
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3251,
+			"squad-fpp" :  null 		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3508,
+			"squad-fpp" :  null 	
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3251,
+			"squad-fpp" :  null	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3508,
+			"squad-fpp" :  null	
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2147,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-23" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3229,
+			"squad-fpp" :  null		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3502,
+			"squad-fpp" :  null		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3229,
+			"squad-fpp" :  null
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3502,
+			"squad-fpp" :  null
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2697,
+			"squad-fpp" :  null
+		}
+	},	
+	"division.bro.official.console-24" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3223,
+			"squad-fpp" :  null
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3501,
+			"squad-fpp" :  null
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3223,
+			"squad-fpp" :  null
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3501,
+			"squad-fpp" :  null
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2003,
+			"squad-fpp" :  null
+		}
+	},	
+	"division.bro.official.console-25" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3233,
+			"squad-fpp" :  null		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3503,
+			"squad-fpp" :  null		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3233,
+			"squad-fpp" :  null	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3503,
+			"squad-fpp" :  null	
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2002,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-26" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3249,
+			"squad-fpp" :  null		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3504,
+			"squad-fpp" :  null		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3249,
+			"squad-fpp" :  null	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 3504,
+			"squad-fpp" :  null	
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : 2011,
+			"squad-fpp" :  null 	
+		}
+	},	
+	"division.bro.official.console-27" : {
+		"psn-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"psn-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null		
+		},
+		"psn-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null		
+		},
+		"psn-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null
+		},
+		"xbox-as" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"xbox-eu" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	 	
+		},
+		"xbox-na" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null	
+		},
+		"xbox-oc" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null		
+		},
+		"xbox-sa" : {
+			"solo" : null,
+			"solo-fpp" : null,
+			"duo" : null,
+			"duo-fpp" : null,
+			"squad" : null,
+			"squad-fpp" :  null 	
+		}
+	}		 
 }
