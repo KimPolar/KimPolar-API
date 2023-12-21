@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import krmetro as km, hangang as hg, json, random
+import krmetro as km, hangang as hg, json, random, color
 
 app = FastAPI()
 
@@ -26,3 +26,8 @@ async def quote():
 @app.get("/hangang/")
 async def hangang():
     return hg.hangang()
+
+@app.get("/color/complement/")
+async def compc(RGB:str):
+    RGB = str(RGB)
+    return color.compcolor(RGB)
