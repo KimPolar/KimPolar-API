@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import krmetro as km, hangang as hg, json, random, color
+import krmetro as km, hangang as hg, json, random, color, pubg
 
 app = FastAPI()
 
@@ -37,3 +37,7 @@ async def weapon():
     with open("weapon.json") as f:
         a = json.load(f)
     return a
+    
+@app.get("/pubg/mastery/")
+async def masteryfind(accountId):
+    return pubg.finder(accountId)
