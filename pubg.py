@@ -16,7 +16,7 @@ def finder(accountId):
   weapmastery = requests.get(f"https://api.pubg.com/shards/steam/players/{accountId}/weapon_mastery", headers=headers).json()
   weaps = list()
   for x in weapmastery['data']['attributes']['weaponSummaries'].keys():
-    weaps.append({"WeapNm":weap["INGAME_ITEM:"+x]['name'],"Tier":req['data']['attributes']['weaponSummaries'][x]['TierCurrent'],"Level":req['data']['attributes']['weaponSummaries'][x]['LevelCurrent']})
+    weaps.append({"WeapNm":weap["INGAME_ITEM:"+x]['name'],"Tier":weapmastery['data']['attributes']['weaponSummaries'][x]['TierCurrent'],"Level":weapmastery['data']['attributes']['weaponSummaries'][x]['LevelCurrent']})
   res = {"accountId":accountId, "Survival":{"Tier":survivalmastery['data']['attributes']['tier'],"Level":survivalmastery['data']['attributes']['level']}, "Weapon":weap}
   
   return res
