@@ -31,3 +31,9 @@ async def hangang():
 async def compc(RGB:str):
     RGB = str(RGB)
     return color.compcolor(RGB)
+
+@app.get("/pubg/weapon/")
+async def weapon():
+    with open("weapon.json") as f:
+        a = json.load(f)
+    return a
