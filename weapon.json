@@ -277,7 +277,7 @@
     "Ammo": "Item_Ammo_45ACP_C",
     "BaseDamage": 42,
     "BodyHitImpact": 6000,
-    "Category": null,
+    "Category": "HG",
     "MOA": 5,
     "Mode": "Single",
     "Speed": 250,
