@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import krmetro as km, hangang as hg, json, random, color, pubg
+import krmetro as km, hangang as hg, json, random, color, pubg, os
 
 app = FastAPI()
 
