@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "*795f7342b3",
+    "Name": "WeapBlueChipDetector_WeaponSoftRolesData",
+    "Class": "UScriptClass'*795f7342b3'",
+    "Properties": {
+      "*a85cf8af25": {
+        "*ee823cd100": {
+          "ObjectName": "AnimMontage'BlueChip_Combat_FPP_Inspect_Montage'",
+          "ObjectPath": "TslGame/Content/Animations/PUBG/SoftRoles/BlueChip/BlueChip_Combat_FPP_Inspect_Montage.0"
+        }
+      },
+      "*f9eae7f711": 25.0,
+      "*4657d80237": 25.0
+    }
+  }
+]

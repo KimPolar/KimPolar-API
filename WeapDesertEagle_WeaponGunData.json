@@ -1,0 +1,115 @@
+[
+  {
+    "Type": "*388bbf1f6b",
+    "Name": "WeapDesertEagle_WeaponGunData",
+    "Class": "UScriptClass'*388bbf1f6b'",
+    "Properties": {
+      "*ad0c39a49b": {
+        "*8b1cb0eec8": "Item_Ammo_45ACP_C",
+        "*f32ab2f727": null,
+        "*644f3c2a7c": 7,
+        "AttachmentTagData": [
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::UpperRail",
+            "*12171502ae": [
+              "UpperReddot",
+              "UpperHolo"
+            ]
+          },
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::LowerRail",
+            "*12171502ae": [
+              "LowerDefault"
+            ]
+          },
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::Magazine",
+            "*12171502ae": [
+              "MagazineSmall"
+            ]
+          }
+        ],
+        "NoAnimReloadDuration": 2.0,
+        "*0f2392022e": 1,
+        "*2d8318d200": 1.0,
+        "*1fe5fb348f": 2.0,
+        "*882e8cbd4f": 2.0,
+        "*f9eae7f711": 10.0,
+        "*92632a3fae": 10.0,
+        "*4657d80237": -20.0,
+        "*1017ae1de5": {
+          "X": 18.0,
+          "Y": 1.0,
+          "Z": 7.0
+        },
+        "*2bb8ce467b": {
+          "X": 20.0,
+          "Y": -2.0,
+          "Z": 10.0
+        },
+        "*5179b4c583": 0.8,
+        "*118a15230c": 0.666
+      },
+      "WeaponDeviationConfig": {
+        "*8016d684dd": 2.5,
+        "*0890e9ecb8": 1.5,
+        "MOA": 4.0,
+        "DeviationRecoilGain": 3.0,
+        "DeviationRecoilGainADS": 0.03,
+        "*f3975aa0bb": 4.0,
+        "*92f110cbf6": 1.5,
+        "*743b5b2559": 1.7,
+        "*8f1f0a839b": 200.0,
+        "*82a945208e": 480.0,
+        "*af67ba9050": 0.8,
+        "*3809c65016": 1.2
+      },
+      "WeaponAnimConfig": {
+        "*f32bcd888c": {
+          "ObjectName": "BlendSpace1D'Weapon_DesertEagle_Grip_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/DesertEagle/Redux/Weapon_DesertEagle_Grip_RD.0"
+        },
+        "*0864208963": {
+          "ObjectName": "AnimMontage'CharacterWeapon_DesertEagle_Reload_Tactical_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/DesertEagle/Redux/CharacterWeapon_DesertEagle_Reload_Tactical_Montage_RD.0"
+        },
+        "*ef574dd55d": {
+          "ObjectName": "AnimMontage'CharacterWeapon_DesertEagle_Reload_Charge_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/DesertEagle/Redux/CharacterWeapon_DesertEagle_Reload_Charge_Montage_RD.0"
+        },
+        "*ee823cd100": {
+          "ObjectName": "AnimMontage'Rifle_Combat_FPP_Inspect_Montage'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Rifle/Idling/Rifle_Combat_FPP_Inspect_Montage.1"
+        },
+        "*f784334486": 1.733,
+        "*8dc14b877f": 2.0,
+        "*bd810f63bf": 0.4,
+        "*dee6c179aa": false,
+        "*ad6fe3ae02": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Pistol_Eagle_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Pistol_Eagle.0"
+        },
+        "*d6f558373f": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Pistol_Eagle_ADS_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Pistol_Eagle_ADS.0"
+        },
+        "*baa7d888ed": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Pistol_Eagle_ADS_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Pistol_Eagle_ADS.0"
+        },
+        "RecoilKickADS": 1.0,
+        "RecoilKick_MovementMaxMultiplier": 1.2,
+        "*e06da59cea": {
+          "X": -50.0,
+          "Y": -150.0,
+          "Z": -150.0
+        },
+        "*33f83b31e1": {
+          "X": -250.0,
+          "Y": 25.0,
+          "Z": 25.0
+        }
+      }
+    }
+  }
+]

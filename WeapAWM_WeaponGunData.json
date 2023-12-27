@@ -1,0 +1,136 @@
+[
+  {
+    "Type": "*388bbf1f6b",
+    "Name": "WeapAWM_WeaponGunData",
+    "Class": "UScriptClass'*388bbf1f6b'",
+    "Properties": {
+      "*ad0c39a49b": {
+        "*8b1cb0eec8": "Item_Ammo_300Magnum_C",
+        "*f32ab2f727": {
+          "ObjectName": "ParticleSystem'P_Tracer1'",
+          "ObjectPath": "TslGame/Content/Export_Marek/Tracer/P_Tracer1.10"
+        },
+        "*644f3c2a7c": 5,
+        "TimeBetweenShots": 1.85,
+        "AttachmentTagData": [
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::UpperRail",
+            "*12171502ae": [
+              "UpperLarge",
+              "UpperSmall",
+              "UpperReddot",
+              "UpperHolo"
+            ]
+          },
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::Magazine",
+            "*12171502ae": [
+              "MagazineSniperRifle"
+            ]
+          },
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::Muzzle",
+            "*12171502ae": [
+              "MuzzleSniperRifle"
+            ]
+          },
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::Stock",
+            "*12171502ae": [
+              "StockSniperRifle"
+            ]
+          },
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::Angled",
+            "*12171502ae": [
+              "RMR"
+            ]
+          }
+        ],
+        "NoAnimReloadDuration": 3.7,
+        "*0f2392022e": 1,
+        "*2d8318d200": 1.0,
+        "*f9eae7f711": 69.0,
+        "*92632a3fae": 22.0,
+        "*2bb8ce467b": {
+          "X": 3.5,
+          "Y": 0.0,
+          "Z": 2.5
+        },
+        "*62981ea007": true
+      },
+      "WeaponDeviationConfig": {
+        "*8016d684dd": 4.0,
+        "*0890e9ecb8": 2.4,
+        "MOA": 0.25,
+        "DeviationRecoilGain": 1.3,
+        "DeviationRecoilGainAim": 0.8,
+        "*f3975aa0bb": 8.0,
+        "*92f110cbf6": 2.5,
+        "*743b5b2559": 1.5,
+        "*82a945208e": 300.0
+      },
+      "WeaponAnimConfig": {
+        "*f32bcd888c": {
+          "ObjectName": "BlendSpace1D'Weapon_AWM_Grip_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/AWM/Redux/Weapon_AWM_Grip_RD.0"
+        },
+        "*cd442a8a93": {
+          "ObjectName": "AnimMontage'CharacterWeapon_AWM_BoltAction_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/AWM/Redux/CharacterWeapon_AWM_BoltAction_Montage_RD.0"
+        },
+        "*0864208963": {
+          "ObjectName": "AnimMontage'CharacterWeapon_AWM_Reload_Tactical_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/AWM/Redux/CharacterWeapon_AWM_Reload_Tactical_Montage_RD.0"
+        },
+        "*ef574dd55d": {
+          "ObjectName": "AnimMontage'CharacterWeapon_AWM_Reload_Charge_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/AWM/Redux/CharacterWeapon_AWM_Reload_Charge_Montage_RD.0"
+        },
+        "*ee823cd100": {
+          "ObjectName": "AnimMontage'Rifle_Combat_FPP_Inspect_Montage'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Rifle/Idling/Rifle_Combat_FPP_Inspect_Montage.1"
+        },
+        "*f784334486": 2.3,
+        "*8dc14b877f": 4.6,
+        "*bd810f63bf": 0.4,
+        "*2c47d18f7d": true,
+        "*89d5a64d19": 0.28,
+        "*5d57fab7ba": 1.8,
+        "*dee6c179aa": false,
+        "*1fd8a1fc4b": true,
+        "*ad6fe3ae02": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Sniper_300Magnum_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Sniper_300Magnum.0"
+        },
+        "*d6f558373f": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Sniper_300Magnum_AWM_Ironsight_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Sniper_300Magnum_AWM_Ironsight.0"
+        },
+        "*baa7d888ed": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Sniper_300Magnum_AWM_Scope_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Sniper_300Magnum_AWM_Scope.0"
+        },
+        "*fb77e201ab": {
+          "ObjectName": "CameraAnim'CSA_Sniper_AWM_Cycle'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CSA_Sniper_AWM_Cycle.8"
+        },
+        "RecoilKickADS": 0.07,
+        "*e06da59cea": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 200.0
+        },
+        "*33f83b31e1": {
+          "X": 0.0,
+          "Y": -90.0,
+          "Z": 0.0
+        }
+      },
+      "*dac13d998d": {
+        "ObjectName": "*8a3489d7bd'WeapAWM_RecoilDataConsole'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/DataAssets/WeapAWM_RecoilDataConsole.0"
+      }
+    }
+  }
+]

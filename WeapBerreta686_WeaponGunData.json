@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "*388bbf1f6b",
+    "Name": "WeapBerreta686_WeaponGunData",
+    "Class": "UScriptClass'*388bbf1f6b'",
+    "Properties": {
+      "*ad0c39a49b": {
+        "*8b1cb0eec8": "Item_Ammo_12Guage_C",
+        "*f32ab2f727": null,
+        "*644f3c2a7c": 2,
+        "AttachmentTagData": [
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::Muzzle",
+            "*12171502ae": [
+              "MuzzleShotgun"
+            ]
+          },
+          {
+            "*bc7294b32c": "EWeaponAttachmentSlotID::Stock",
+            "*12171502ae": [
+              "StockShotgun",
+              "StockSniperRifleBullet"
+            ]
+          }
+        ],
+        "NoAnimReloadDuration": 2.3,
+        "*0f2392022e": 1,
+        "*85cc979587": 0.12,
+        "BulletPerFiring": 9,
+        "*2d8318d200": 5.5,
+        "*f9eae7f711": 62.5,
+        "*92632a3fae": 22.0,
+        "*1017ae1de5": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 5.0
+        },
+        "*2bb8ce467b": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 7.0
+        },
+        "*0335a3e83b": true,
+        "*beaaf59ded": null,
+        "*cc129d7ea2": 1.05,
+        "*698c983167": 0.33,
+        "*7193cce0e7": true
+      },
+      "WeaponDeviationConfig": {
+        "*8016d684dd": 0.8,
+        "*f3975aa0bb": 7.0,
+        "*92f110cbf6": 1.0,
+        "*743b5b2559": 0.5,
+        "*8f1f0a839b": 100.0,
+        "*82a945208e": 400.0,
+        "*3809c65016": 2.8
+      },
+      "WeaponAnimConfig": {
+        "*f32bcd888c": {
+          "ObjectName": "BlendSpace1D'Weapon_686_Grip_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/686/Redux/Weapon_686_Grip_RD.0"
+        },
+        "*0864208963": {
+          "ObjectName": "AnimMontage'CharacterWeapon_686_Reload_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/686/Redux/CharacterWeapon_686_Reload_Montage_RD.4"
+        },
+        "*ef574dd55d": {
+          "ObjectName": "AnimMontage'CharacterWeapon_686_Reload_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/686/Redux/CharacterWeapon_686_Reload_Montage_RD.4"
+        },
+        "*5b11c742d8": {
+          "ObjectName": "AnimMontage'CharacterWeapon_686_Reload_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/686/Redux/CharacterWeapon_686_Reload_Montage_RD.4"
+        },
+        "*5f9fb55dd6": {
+          "ObjectName": "AnimMontage'CharacterWeapon_686_Reload_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/686/Redux/CharacterWeapon_686_Reload_Montage_RD.4"
+        },
+        "*65fa4a9be3": {
+          "ObjectName": "AnimMontage'CharacterWeapon_686_Reload_Montage_RD'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/686/Redux/CharacterWeapon_686_Reload_Montage_RD.4"
+        },
+        "*ee823cd100": {
+          "ObjectName": "AnimMontage'Rifle_Combat_FPP_Inspect_Montage'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Rifle/Idling/Rifle_Combat_FPP_Inspect_Montage.1"
+        },
+        "*f784334486": 2.4,
+        "*8dc14b877f": 2.4,
+        "*efc7a21593": 2.0,
+        "*bd810f63bf": 0.4,
+        "*ad6fe3ae02": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Shotgun_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Shotgun.0"
+        },
+        "*d6f558373f": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Shotgun_686_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Shotgun_686.0"
+        },
+        "*baa7d888ed": {
+          "ObjectName": "BlueprintGeneratedClass'CS_WeapGun_Shotgun_686_C'",
+          "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeaponConfig/CS_WeapGun_Shotgun_686.0"
+        }
+      }
+    }
+  }
+]
