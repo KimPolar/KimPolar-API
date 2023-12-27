@@ -25,7 +25,7 @@ def finder(accountId):
   weapmastery = weapmastery.json()
   weaps = list()
   for x in weapmastery['data']['attributes']['weaponSummaries'].keys():
-    weaps.append({"WeapNm":weap["INGAME_ITEM:"+x]['name'],"Tier":weapmastery['data']['attributes']['weaponSummaries'][x]['TierCurrent'],"Level":weapmastery['data']['attributes']['weaponSummaries'][x]['LevelCurrent']})
+    weaps.append({"WeapNm":weap["INGAME_ITEM:"+x]['name'],"WeapCd":x,"Tier":weapmastery['data']['attributes']['weaponSummaries'][x]['TierCurrent'],"Level":weapmastery['data']['attributes']['weaponSummaries'][x]['LevelCurrent']})
   res = {"code":200,"data":{"accountId":accountId, "Survival":{"Tier":survivalmastery['data']['attributes']['tier'],"Level":survivalmastery['data']['attributes']['level']}, "Weapon":weaps}}
  
   return res
