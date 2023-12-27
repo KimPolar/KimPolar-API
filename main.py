@@ -4,8 +4,6 @@ from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
 
-app.mount("/pubg/weapon/raw/", StaticFiles(directory="pubg/weapon/"), name="Static Weapon Raw")
-
 @app.get("/")
 async def root():
     return "KimPolar's API"
