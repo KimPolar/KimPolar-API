@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 import krmetro as km, hangang as hg, json, random, color, pubg, os
+from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
 
@@ -45,3 +46,5 @@ async def masteryfind(accountId):
 @app.get("/pubg/status/")
 async def pubgstatus():
     return pubg.pubgserver()
+
+app.mount("/pubg/weapon/raw", StaticFiles(directory="pubg/weapon"), name="static")
