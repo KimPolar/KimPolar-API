@@ -41,3 +41,7 @@ async def weapon():
 @app.get("/pubg/mastery/")
 async def masteryfind(accountId):
     return pubg.finder(accountId)
+
+@app.get("/pubg/status/")
+async def pubgstatus():
+    return pubg.pubgserver()
