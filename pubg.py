@@ -29,3 +29,24 @@ def finder(accountId):
   res = {"code":200,"data":{"accountId":accountId, "Survival":{"Tier":survivalmastery['data']['attributes']['tier'],"Level":survivalmastery['data']['attributes']['level']}, "Weapon":weaps}}
  
   return res
+
+def pubgserver():
+  res = dict()
+  link = os.environ['PUBG-LIVE-URL']
+  test = requests.get(f"https://pctest-{link}.playbattlegrounds.com/")
+  live = requests.get(f"https://prod-{link}.playbattlegrounds.com/")
+  try:
+    test = test.json()['health']
+    if test == True:
+      res['TestServer'] = "Open"
+  except:
+    res['TestServer'] = "Closed"
+
+  try:
+    live = live.json()['health']
+    if live == True:
+      res['LiveServer'] = "Open"
+  except:
+    res['LiveServer'] = "Closed"
+  
+  return res
