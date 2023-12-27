@@ -47,4 +47,4 @@ async def masteryfind(accountId):
 async def pubgstatus():
     return pubg.pubgserver()
 
-app.mount("/pubg/weapon/raw", StaticFiles(directory="pubg/weapon"), name="static")
+app.mount("/pubg/weapon/raw/", StaticFiles(directory="pubg/weapon/"), name="weaponraw")
