@@ -46,7 +46,7 @@
     "Category": "SR",
     "MOA": 0.25,
     "Mode": "Single",
-    "Speed": 945,
+    "Speed": 954,
     "TimeBetweenShots": 1.85,
     "WeapNm": "AWM",
     "WeaponSpread": 7.5
@@ -98,7 +98,7 @@
     "Category": "LMG",
     "MOA": 4.6,
     "Mode": "Auto",
-    "Speed": 715,
+    "Speed": 840,
     "TimeBetweenShots": 0.109,
     "WeapNm": "DP-28",
     "WeaponSpread": 6
@@ -176,7 +176,7 @@
     "Category": "AR",
     "MOA": 2.6,
     "Mode": "Single/Auto",
-    "Speed": 870,
+    "Speed": 880,
     "TimeBetweenShots": 0.0857,
     "WeapNm": "G36C",
     "WeaponSpread": 4
@@ -267,7 +267,7 @@
     "Category": "AR",
     "MOA": 4,
     "Mode": "Single/3Burst",
-    "Speed": 900,
+    "Speed": 910,
     "TimeBetweenShots": 0.075,
     "WeapNm": "M16A4",
     "WeaponSpread": 5
@@ -488,7 +488,7 @@
     "Category": "DMR",
     "MOA": 1.5,
     "Mode": "Single",
-    "Speed": 945,
+    "Speed": 990,
     "TimeBetweenShots": 0.1,
     "WeapNm": "QBU",
     "WeaponSpread": 5
@@ -501,7 +501,7 @@
     "Category": "AR",
     "MOA": 1.3,
     "Mode": "Single/Auto",
-    "Speed": 870,
+    "Speed": 930,
     "TimeBetweenShots": 0.0923,
     "WeapNm": "QBZ",
     "WeaponSpread": 4
