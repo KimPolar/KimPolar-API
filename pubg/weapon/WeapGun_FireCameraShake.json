@@ -1,0 +1,46 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "WeapGun_FireCameraShake_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "SuperStruct": {
+      "ObjectName": "Class'CameraShake'",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": "CLASS_Optional | CLASS_EditInlineNew | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "WeapGun_FireCameraShake_C'Default__WeapGun_FireCameraShake_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapGun_FireCameraShake.1"
+    }
+  },
+  {
+    "Type": "WeapGun_FireCameraShake_C",
+    "Name": "Default__WeapGun_FireCameraShake_C",
+    "Class": "BlueprintGeneratedClass'TslGame/Content/Blueprints/Weapons/WeapGun_FireCameraShake.WeapGun_FireCameraShake_C'",
+    "Properties": {
+      "*a990975726": 0.25,
+      "*fbdc439690": {
+        "Pitch": {
+          "*06dda8853c": 0.5,
+          "Frequency": 40.0
+        }
+      },
+      "*b9e2b7833f": {
+        "Y": {
+          "*06dda8853c": 0.3,
+          "Frequency": 50.0
+        },
+        "Z": {
+          "*06dda8853c": 0.3,
+          "Frequency": 50.0
+        }
+      }
+    }
+  }
+]

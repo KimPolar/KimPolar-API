@@ -1,0 +1,313 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "WeapJS9_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Super": {
+      "ObjectName": "BlueprintGeneratedClass'DefaultRifleSetting_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.0"
+    },
+    "Properties": {
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript'WeapJS9_C:SimpleConstructionScript_1'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapJS9.6"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "BlueprintGeneratedClass'DefaultRifleSetting_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.0"
+    },
+    "ClassFlags": "CLASS_Config | CLASS_Optional | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Game",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "WeapJS9_C'Default__WeapJS9_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapJS9.1"
+    }
+  },
+  {
+    "Type": "WeapJS9_C",
+    "Name": "Default__WeapJS9_C",
+    "Class": "BlueprintGeneratedClass'TslGame/Content/Blueprints/Weapons/WeapJS9.WeapJS9_C'",
+    "Template": {
+      "ObjectName": "DefaultRifleSetting_C'Default__DefaultRifleSetting_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.1"
+    },
+    "Properties": {
+      "*da32db4b42": null,
+      "WeaponTrajectoryData": {
+        "ObjectName": "WeaponTrajectoryData'WeapJS9_WeaponTrajectoryData'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/DataAssets/WeapJS9_WeaponTrajectoryData.0"
+      },
+      "*4f99bd5979": {
+        "BlurLevel": 0.55,
+        "ScopeRadiusNear": 0.1,
+        "ScopeRadiusFar": 0.1,
+        "ReticleAngularSize": 15.0,
+        "DepthBlurPower": 1.0,
+        "DepthBlurWhitePoint": 5.0,
+        "DepthBlurBlackPoint": 24.0
+      },
+      "WeaponGunData": {
+        "ObjectName": "*388bbf1f6b'WeapJS9_WeaponGunData'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/DataAssets/WeapJS9_WeaponGunData.0"
+      },
+      "WeaponIcon": {
+        "ObjectName": "Texture2D'weapons_gun_JS9'",
+        "ObjectPath": "TslGame/Content/UI/Weapon/weapons_gun_JS9.0"
+      },
+      "WeaponIconRatio": 2.16,
+      "WeaponConfig": {
+        "TargetingFOV": 75.0,
+        "*1f45ca973a": 60.0,
+        "*1eba164df7": {
+          "X": 0.0,
+          "Y": -35.0,
+          "Z": -5.0
+        },
+        "*38dae712e7": {
+          "X": 3.0,
+          "Y": 6.0,
+          "Z": 0.5
+        },
+        "*fa592782bc": "EWeaponClass::Class_SMG",
+        "*7bf434693c": 1.3,
+        "*29a240b046": [
+          100.0
+        ],
+        "*c8323e1866": {
+          "ObjectName": "AnimMontage'Rifle_Recoil_9_Montage'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Rifle/Recoil/Rifle_Recoil_9_Montage.0"
+        },
+        "*c3d28a74e0": 0.25,
+        "*fcec8efb8a": 0.4,
+        "*e102d8b3ca": 7000.0,
+        "*ef974755a7": {
+          "Translation": {
+            "X": -17.0,
+            "Y": 4.0,
+            "Z": -1.0
+          }
+        },
+        "*becad96ccf": {
+          "Translation": {
+            "X": -15.0,
+            "Y": 2.5,
+            "Z": 2.3
+          }
+        },
+        "*65d16c2667": {
+          "Translation": {
+            "X": -13.0,
+            "Y": 0.0,
+            "Z": -5.0
+          }
+        },
+        "*cec848b0eb": {
+          "Translation": {
+            "X": -13.0,
+            "Y": 2.0,
+            "Z": -5.0
+          }
+        }
+      },
+      "*29a2bd251a": {
+        "ObjectName": "*b389c20ca0'Default__WeapJS9_C:WeaponMesh3P'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapJS9.2"
+      },
+      "*db4d3076e9": "EAttachmentCalculateType::Multiply",
+      "*c8917e63a9": [
+        {
+          "*bc7294b32c": "EWeaponAttachmentSlotID::Magazine",
+          "*836e77781a": "Magazine_Default",
+          "*7661024acf": [
+            {
+              "*38bfab5fce": "MagazineMedium",
+              "*836e77781a": "Magazine_Default"
+            }
+          ]
+        },
+        {
+          "*bc7294b32c": "EWeaponAttachmentSlotID::Muzzle",
+          "*836e77781a": "Muzzle_Default",
+          "*7661024acf": [
+            {
+              "*38bfab5fce": "MuzzleMedium",
+              "*836e77781a": "Muzzle_Default"
+            }
+          ]
+        },
+        {
+          "*bc7294b32c": "EWeaponAttachmentSlotID::UpperRail",
+          "*836e77781a": "Upper_Small",
+          "*7661024acf": [
+            {
+              "*38bfab5fce": "UpperReddot",
+              "*836e77781a": "Upper_Small"
+            },
+            {
+              "*38bfab5fce": "UpperHolo",
+              "*836e77781a": "Upper_Small"
+            }
+          ]
+        },
+        {
+          "*bc7294b32c": "EWeaponAttachmentSlotID::Angled",
+          "*836e77781a": "Upper_Angled",
+          "*7661024acf": []
+        }
+      ],
+      "*3c89109d12": [
+        {
+          "AttachmentSlotID": "EWeaponAttachmentSlotID::Magazine",
+          "AttachmentTag": "JS9",
+          "AttachmentMeshAsset": "/Game/Weapon/Rifles/JS9/Meshes/SM_JS9_Mag_30.SM_JS9_Mag_30",
+          "AttachmentMeshName": "JS9",
+          "AttachmentTemplate": {
+            "ObjectName": "Class'AsyncStaticMeshComponent'",
+            "ObjectPath": "/Script/TslGame"
+          }
+        }
+      ],
+      "*46b0d686e3": "JS9",
+      "*322a7b7ae0": {
+        "ObjectName": "ParticleSystem'P_Muzzle_JS9'",
+        "ObjectPath": "TslGame/Content/Assets/Effects/ParticleSystem/Muzzle/SMG/P_Muzzle_JS9.95"
+      },
+      "*ebd18f5a8e": {
+        "RollLeft": {
+          "ObjectName": "AnimMontage'MIL2_M3_W1_ProneRoll_L_Loop_IP_Montage'",
+          "ObjectPath": "TslGame/Content/Characters/Animations/Human_Biped/Military_Pistol/MIL2_M3_W1_ProneRoll_L_Loop_IP_Montage.0"
+        },
+        "RollRight": {
+          "ObjectName": "AnimMontage'MIL2_M3_W1_ProneRoll_R_Loop_IP_Montage'",
+          "ObjectPath": "TslGame/Content/Characters/Animations/Human_Biped/Military_Pistol/MIL2_M3_W1_ProneRoll_R_Loop_IP_Montage.0"
+        }
+      },
+      "*d4717afcd8": [
+        {
+          "EAccessorySlot::Slot_Secondary": {
+            "Montage": {
+              "ObjectName": "AnimMontage'Rifle_Combat_Stand_SecondarySlot_Montage_RD'",
+              "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Equip/Redux/Rifle_Combat_Stand_SecondarySlot_Montage_RD.1"
+            },
+            "PlayRate": 1.5
+          }
+        },
+        {
+          "EAccessorySlot::Slot_SideArm": {
+            "Montage": {
+              "ObjectName": "AnimMontage'Rifle_Combat_Stand_PistolSlot_Montage_RD'",
+              "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Equip/Redux/Rifle_Combat_Stand_PistolSlot_Montage_RD.1"
+            },
+            "PlayRate": 1.0
+          }
+        },
+        {
+          "EAccessorySlot::Slot_Primary": {
+            "Montage": {
+              "ObjectName": "AnimMontage'Rifle_Combat_Stand_PrimarySlot_Montage_RD'",
+              "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Equip/Redux/Rifle_Combat_Stand_PrimarySlot_Montage_RD.1"
+            },
+            "PlayRate": 1.0
+          }
+        }
+      ],
+      "*803e2f2033": {
+        "ObjectName": "*803e2f2033'WeapJS9_WeaponAudioData'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/DataAssets/WeapJS9_WeaponAudioData.0"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent'Default__WeapJS9_C:RootScene'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapJS9.3"
+      }
+    }
+  },
+  {
+    "Type": "*b389c20ca0",
+    "Name": "WeaponMesh3P",
+    "Outer": "Default__WeapJS9_C",
+    "Class": "UScriptClass'*b389c20ca0'",
+    "Template": {
+      "ObjectName": "*b389c20ca0'Default__DefaultRifleSetting_C:WeaponMesh3P'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.2"
+    },
+    "Properties": {
+      "AnimClass": {
+        "ObjectName": "AnimBlueprintGeneratedClass'ABP_Weapon_JS9_C'",
+        "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/JS9/Weapon/ABP_Weapon_JS9.32"
+      },
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMesh'SK_JS9'",
+        "ObjectPath": "TslGame/Content/Weapon/Rifles/JS9/Meshes/SK_JS9.0"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Default__WeapJS9_C:RootScene'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapJS9.3"
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootScene",
+    "Outer": "Default__WeapJS9_C",
+    "Class": "UScriptClass'SceneComponent'",
+    "Template": {
+      "ObjectName": "SceneComponent'Default__DefaultRifleSetting_C:RootScene'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.3"
+    },
+    "Properties": {
+      "AttachmentChangedDelegate": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WeapJS9_C'Default__WeapJS9_C'",
+              "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapJS9.1"
+            },
+            "FunctionName": "OnAttachmentChanged"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Outer": "WeapJS9_C",
+    "Class": "UScriptClass'SceneComponent'"
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_1",
+    "Outer": "SimpleConstructionScript_1",
+    "Class": "UScriptClass'SCS_Node'",
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SceneComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "*97911ad1aa": {
+        "ObjectName": "SceneComponent'WeapJS9_C:DefaultSceneRoot_GEN_VARIABLE'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapJS9.4"
+      },
+      "VariableGuid": "D6F634D4-4DBF99D6-59773C9A-370D8B0F",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_1",
+    "Outer": "WeapJS9_C",
+    "Class": "UScriptClass'SimpleConstructionScript'",
+    "Properties": {
+      "*2142b6ce55": {
+        "ObjectName": "SCS_Node'WeapJS9_C:SimpleConstructionScript_1.SCS_Node_1'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapJS9.5"
+      }
+    }
+  }
+]

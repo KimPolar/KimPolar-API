@@ -1,0 +1,172 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "WeapDuncansHK416_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Super": {
+      "ObjectName": "BlueprintGeneratedClass'WeapHK416_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapHK416.0"
+    },
+    "Properties": {
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript'WeapDuncansHK416_C:SimpleConstructionScript_0'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.6"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "BlueprintGeneratedClass'WeapHK416_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapHK416.0"
+    },
+    "ClassFlags": "CLASS_Config | CLASS_Optional | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Game",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "WeapDuncansHK416_C'Default__WeapDuncansHK416_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.1"
+    }
+  },
+  {
+    "Type": "WeapDuncansHK416_C",
+    "Name": "Default__WeapDuncansHK416_C",
+    "Class": "BlueprintGeneratedClass'TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.WeapDuncansHK416_C'",
+    "Template": {
+      "ObjectName": "WeapHK416_C'Default__WeapHK416_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapHK416.1"
+    },
+    "Properties": {
+      "*5e7e0a5eb8": [
+        "Item_Attach_Weapon_Muzzle_Compensator_Large_C",
+        "Item_Attach_Weapon_Upper_ACOG_01_C",
+        "Item_Attach_Weapon_Lower_ThumbGrip_C",
+        "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Large_C",
+        "Item_Attach_Weapon_Stock_AR_Composite_C"
+      ],
+      "*29a2bd251a": {
+        "ObjectName": "*b389c20ca0'Default__WeapDuncansHK416_C:WeaponMesh3P'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.2"
+      },
+      "*3c89109d12": [
+        {
+          "AttachmentSlotID": "EWeaponAttachmentSlotID::UpperRail",
+          "AttachmentTag": "UpperDefault",
+          "AttachmentMeshAsset": "/Game/Weapon/Rifles/HK416/Meshes/HK416_Sight_setting.HK416_Sight_setting",
+          "AttachmentMeshName": "UpperDefault",
+          "AttachmentTemplate": {
+            "ObjectName": "Class'AsyncStaticMeshComponent'",
+            "ObjectPath": "/Script/TslGame"
+          }
+        },
+        {
+          "AttachmentSlotID": "EWeaponAttachmentSlotID::Magazine",
+          "AttachmentTag": "MagazineDefault",
+          "AttachmentMeshAsset": "/Game/Weapon/Rifles/HK416/Meshes/HK416_Mag_01_setting.HK416_Mag_01_setting",
+          "AttachmentMeshName": "MagazineDefault",
+          "AttachmentTemplate": {
+            "ObjectName": "Class'AsyncStaticMeshComponent'",
+            "ObjectPath": "/Script/TslGame"
+          }
+        },
+        {
+          "AttachmentSlotID": "EWeaponAttachmentSlotID::Stock",
+          "AttachmentTag": "StockAssaultRifle",
+          "AttachmentMeshAsset": "/Game/Weapon/Rifles/HK416/Meshes/Duncans_HK416_Stock_setting.Duncans_HK416_Stock_setting",
+          "AttachmentMeshName": "StockAssaultRifle",
+          "AttachmentTemplate": {
+            "ObjectName": "Class'AsyncStaticMeshComponent'",
+            "ObjectPath": "/Script/TslGame"
+          }
+        }
+      ],
+      "*46b0d686e3": "Duncan's HK416",
+      "RootComponent": {
+        "ObjectName": "SceneComponent'Default__WeapDuncansHK416_C:RootScene'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.3"
+      }
+    }
+  },
+  {
+    "Type": "*b389c20ca0",
+    "Name": "WeaponMesh3P",
+    "Outer": "Default__WeapDuncansHK416_C",
+    "Class": "UScriptClass'*b389c20ca0'",
+    "Template": {
+      "ObjectName": "*b389c20ca0'Default__WeapHK416_C:WeaponMesh3P'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapHK416.2"
+    },
+    "Properties": {
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant'HK416_Hexagon_01'",
+          "ObjectPath": "TslGame/Content/Weapon/Skin/Hexagon/Materials/HK416_Hexagon_01.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Default__WeapDuncansHK416_C:RootScene'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.3"
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootScene",
+    "Outer": "Default__WeapDuncansHK416_C",
+    "Class": "UScriptClass'SceneComponent'",
+    "Template": {
+      "ObjectName": "SceneComponent'Default__WeapHK416_C:RootScene'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapHK416.3"
+    },
+    "Properties": {
+      "AttachmentChangedDelegate": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WeapDuncansHK416_C'Default__WeapDuncansHK416_C'",
+              "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.1"
+            },
+            "FunctionName": "OnAttachmentChanged"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Outer": "WeapDuncansHK416_C",
+    "Class": "UScriptClass'SceneComponent'"
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_0",
+    "Outer": "SimpleConstructionScript_0",
+    "Class": "UScriptClass'SCS_Node'",
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SceneComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "*97911ad1aa": {
+        "ObjectName": "SceneComponent'WeapDuncansHK416_C:DefaultSceneRoot_GEN_VARIABLE'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.4"
+      },
+      "VariableGuid": "2B024512-445C48B9-6C007F85-EBED2835",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_0",
+    "Outer": "WeapDuncansHK416_C",
+    "Class": "UScriptClass'SimpleConstructionScript'",
+    "Properties": {
+      "*2142b6ce55": {
+        "ObjectName": "SCS_Node'WeapDuncansHK416_C:SimpleConstructionScript_0.SCS_Node_0'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapDuncansHK416.5"
+      }
+    }
+  }
+]

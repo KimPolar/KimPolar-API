@@ -1,0 +1,132 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "WeapMadsFNFal_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Super": {
+      "ObjectName": "BlueprintGeneratedClass'WeapFNFal_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapFNFal.0"
+    },
+    "Properties": {
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript'WeapMadsFNFal_C:SimpleConstructionScript_0'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.6"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "BlueprintGeneratedClass'WeapFNFal_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapFNFal.0"
+    },
+    "ClassFlags": "CLASS_Config | CLASS_Optional | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Game",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "WeapMadsFNFal_C'Default__WeapMadsFNFal_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.1"
+    }
+  },
+  {
+    "Type": "WeapMadsFNFal_C",
+    "Name": "Default__WeapMadsFNFal_C",
+    "Class": "BlueprintGeneratedClass'TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.WeapMadsFNFal_C'",
+    "Template": {
+      "ObjectName": "WeapFNFal_C'Default__WeapFNFal_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapFNFal.1"
+    },
+    "Properties": {
+      "*5e7e0a5eb8": [
+        "Item_Attach_Weapon_Upper_Scope6x_C",
+        "Item_Attach_Weapon_Stock_SniperRifle_CheekPad_C",
+        "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_SniperRifle_C",
+        "Item_Attach_Weapon_Muzzle_Compensator_SniperRifle_C"
+      ],
+      "*29a2bd251a": {
+        "ObjectName": "*b389c20ca0'Default__WeapMadsFNFal_C:WeaponMesh3P'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.2"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent'Default__WeapMadsFNFal_C:RootScene'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.3"
+      }
+    }
+  },
+  {
+    "Type": "*b389c20ca0",
+    "Name": "WeaponMesh3P",
+    "Outer": "Default__WeapMadsFNFal_C",
+    "Class": "UScriptClass'*b389c20ca0'",
+    "Template": {
+      "ObjectName": "*b389c20ca0'Default__WeapFNFal_C:WeaponMesh3P'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapFNFal.2"
+    },
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Default__WeapMadsFNFal_C:RootScene'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.3"
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootScene",
+    "Outer": "Default__WeapMadsFNFal_C",
+    "Class": "UScriptClass'SceneComponent'",
+    "Template": {
+      "ObjectName": "SceneComponent'Default__WeapFNFal_C:RootScene'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapFNFal.3"
+    },
+    "Properties": {
+      "AttachmentChangedDelegate": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WeapMadsFNFal_C'Default__WeapMadsFNFal_C'",
+              "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.1"
+            },
+            "FunctionName": "OnAttachmentChanged"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Outer": "WeapMadsFNFal_C",
+    "Class": "UScriptClass'SceneComponent'"
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_0",
+    "Outer": "SimpleConstructionScript_0",
+    "Class": "UScriptClass'SCS_Node'",
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SceneComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "*97911ad1aa": {
+        "ObjectName": "SceneComponent'WeapMadsFNFal_C:DefaultSceneRoot_GEN_VARIABLE'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.4"
+      },
+      "VariableGuid": "F4484F25-49FADB93-D7484491-C183338D",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_0",
+    "Outer": "WeapMadsFNFal_C",
+    "Class": "UScriptClass'SimpleConstructionScript'",
+    "Properties": {
+      "*2142b6ce55": {
+        "ObjectName": "SCS_Node'WeapMadsFNFal_C:SimpleConstructionScript_0.SCS_Node_0'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapMadsFNFal.5"
+      }
+    }
+  }
+]

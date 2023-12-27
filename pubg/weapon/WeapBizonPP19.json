@@ -1,0 +1,279 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "WeapBizonPP19_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Super": {
+      "ObjectName": "BlueprintGeneratedClass'DefaultRifleSetting_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.0"
+    },
+    "Properties": {
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript'WeapBizonPP19_C:SimpleConstructionScript_1'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapBizonPP19.6"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "BlueprintGeneratedClass'DefaultRifleSetting_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.0"
+    },
+    "ClassFlags": "CLASS_Config | CLASS_Optional | CLASS_CompiledFromBlueprint | CLASS_HasInstancedReference",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Game",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "WeapBizonPP19_C'Default__WeapBizonPP19_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapBizonPP19.1"
+    }
+  },
+  {
+    "Type": "WeapBizonPP19_C",
+    "Name": "Default__WeapBizonPP19_C",
+    "Class": "BlueprintGeneratedClass'TslGame/Content/Blueprints/Weapons/WeapBizonPP19.WeapBizonPP19_C'",
+    "Template": {
+      "ObjectName": "DefaultRifleSetting_C'Default__DefaultRifleSetting_C'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.1"
+    },
+    "Properties": {
+      "*da32db4b42": null,
+      "WeaponTrajectoryData": {
+        "ObjectName": "WeaponTrajectoryData'WeapPP19Bizon_WeaponTrajectoryData'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/DataAssets/WeapPP19Bizon_WeaponTrajectoryData.0"
+      },
+      "*4f99bd5979": {
+        "BlurLevel": 0.52,
+        "ScopeRadiusNear": 0.1,
+        "ScopeRadiusFar": 0.1,
+        "ReticleAngularSize": 15.0,
+        "DepthBlurPower": 1.0,
+        "DepthBlurWhitePoint": 5.0,
+        "DepthBlurBlackPoint": 30.0
+      },
+      "WeaponGunData": {
+        "ObjectName": "*388bbf1f6b'WeapPP19Bizon_WeaponGunData'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/DataAssets/WeapPP19Bizon_WeaponGunData.0"
+      },
+      "WeaponIcon": {
+        "ObjectName": "Texture2D'weapons_gun_BizonPP19'",
+        "ObjectPath": "TslGame/Content/UI/Weapon/weapons_gun_BizonPP19.0"
+      },
+      "WeaponIconRatio": 3.2,
+      "WeaponConfig": {
+        "TargetingFOV": 75.0,
+        "*1f45ca973a": 60.0,
+        "*1eba164df7": {
+          "X": 0.0,
+          "Y": 30.0,
+          "Z": -5.0
+        },
+        "*38dae712e7": {
+          "X": 3.0,
+          "Y": 6.0,
+          "Z": 0.5
+        },
+        "*fa592782bc": "EWeaponClass::Class_SMG",
+        "*29a240b046": [
+          100.0
+        ],
+        "*c8323e1866": {
+          "ObjectName": "AnimMontage'SMG_Recoil_9_Montage'",
+          "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Rifle/Recoil/SMG_Recoil_9_Montage.0"
+        },
+        "*c3d28a74e0": 0.2,
+        "*fcec8efb8a": 0.4,
+        "*e102d8b3ca": 7000.0
+      },
+      "*29a2bd251a": {
+        "ObjectName": "*b389c20ca0'Default__WeapBizonPP19_C:WeaponMesh3P'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapBizonPP19.2"
+      },
+      "*db4d3076e9": "EAttachmentCalculateType::Multiply",
+      "*c8917e63a9": [
+        {
+          "*bc7294b32c": "EWeaponAttachmentSlotID::UpperRail",
+          "*836e77781a": "Upper_Small",
+          "*7661024acf": [
+            {
+              "*38bfab5fce": "UpperSmall",
+              "*836e77781a": "Upper_Small"
+            },
+            {
+              "*38bfab5fce": "UpperHolo",
+              "*836e77781a": "Upper_Holo"
+            }
+          ]
+        },
+        {
+          "*bc7294b32c": "EWeaponAttachmentSlotID::Magazine",
+          "*836e77781a": "Magazine_Default",
+          "*7661024acf": [
+            {
+              "*38bfab5fce": "MagazineMedium",
+              "*836e77781a": "Magazine_Default"
+            }
+          ]
+        },
+        {
+          "*bc7294b32c": "EWeaponAttachmentSlotID::Muzzle",
+          "*836e77781a": "Muzzle_Default",
+          "*7661024acf": [
+            {
+              "*38bfab5fce": "MuzzleMedium",
+              "*836e77781a": "Muzzle_Default"
+            }
+          ]
+        },
+        {
+          "*bc7294b32c": "EWeaponAttachmentSlotID::Angled",
+          "*836e77781a": "Upper_Angled",
+          "*7661024acf": [
+            {
+              "*38bfab5fce": "RMR",
+              "*836e77781a": "Upper_Angled"
+            }
+          ]
+        }
+      ],
+      "*3c89109d12": [
+        {
+          "AttachmentSlotID": "EWeaponAttachmentSlotID::Magazine",
+          "AttachmentTag": "MagazineDefault",
+          "AttachmentMeshAsset": "/Game/Weapon/Rifles/BizonPP19/Meshes/SM_BizonPP19_Magazine.SM_BizonPP19_Magazine",
+          "AttachmentMeshName": "MagazineDefault",
+          "AttachmentTemplate": {
+            "ObjectName": "Class'AsyncStaticMeshComponent'",
+            "ObjectPath": "/Script/TslGame"
+          }
+        }
+      ],
+      "*46b0d686e3": "PP19",
+      "*322a7b7ae0": {
+        "ObjectName": "ParticleSystem'P_Muzzle_BizonPP19'",
+        "ObjectPath": "TslGame/Content/Assets/Effects/ParticleSystem/Muzzle/SMG/P_Muzzle_BizonPP19.95"
+      },
+      "*d4717afcd8": [
+        {
+          "EAccessorySlot::Slot_Secondary": {
+            "Montage": {
+              "ObjectName": "AnimMontage'Rifle_Combat_Stand_SecondarySlot_Montage_RD'",
+              "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Equip/Redux/Rifle_Combat_Stand_SecondarySlot_Montage_RD.1"
+            },
+            "PlayRate": 1.5
+          }
+        },
+        {
+          "EAccessorySlot::Slot_SideArm": {
+            "Montage": {
+              "ObjectName": "AnimMontage'Rifle_Combat_Stand_PistolSlot_Montage_RD'",
+              "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Equip/Redux/Rifle_Combat_Stand_PistolSlot_Montage_RD.1"
+            },
+            "PlayRate": 1.0
+          }
+        },
+        {
+          "EAccessorySlot::Slot_Primary": {
+            "Montage": {
+              "ObjectName": "AnimMontage'Rifle_Combat_Stand_PrimarySlot_Montage_RD'",
+              "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/Equip/Redux/Rifle_Combat_Stand_PrimarySlot_Montage_RD.1"
+            },
+            "PlayRate": 1.0
+          }
+        }
+      ],
+      "*803e2f2033": {
+        "ObjectName": "*803e2f2033'WeapPP19Bizon_WeaponAudioData'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/DataAssets/WeapPP19Bizon_WeaponAudioData.0"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent'Default__WeapBizonPP19_C:RootScene'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapBizonPP19.3"
+      }
+    }
+  },
+  {
+    "Type": "*b389c20ca0",
+    "Name": "WeaponMesh3P",
+    "Outer": "Default__WeapBizonPP19_C",
+    "Class": "UScriptClass'*b389c20ca0'",
+    "Template": {
+      "ObjectName": "*b389c20ca0'Default__DefaultRifleSetting_C:WeaponMesh3P'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.2"
+    },
+    "Properties": {
+      "AnimClass": {
+        "ObjectName": "AnimBlueprintGeneratedClass'ABP_PP19_Bizon_RD_C'",
+        "ObjectPath": "TslGame/Content/Animations/Battlegrounds/Anims/WeaponOperation/PP19Bizon/Redux/Weapon_RD/ABP_PP19_Bizon_RD.36"
+      },
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMesh'SK_BizonPP19'",
+        "ObjectPath": "TslGame/Content/Weapon/Rifles/BizonPP19/Meshes/SK_BizonPP19.0"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent'Default__WeapBizonPP19_C:RootScene'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapBizonPP19.3"
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootScene",
+    "Outer": "Default__WeapBizonPP19_C",
+    "Class": "UScriptClass'SceneComponent'",
+    "Template": {
+      "ObjectName": "SceneComponent'Default__DefaultRifleSetting_C:RootScene'",
+      "ObjectPath": "TslGame/Content/Blueprints/Weapons/DefaultRifleSetting.3"
+    },
+    "Properties": {
+      "AttachmentChangedDelegate": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WeapBizonPP19_C'Default__WeapBizonPP19_C'",
+              "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapBizonPP19.1"
+            },
+            "FunctionName": "OnAttachmentChanged"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Outer": "WeapBizonPP19_C",
+    "Class": "UScriptClass'SceneComponent'"
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_1",
+    "Outer": "SimpleConstructionScript_1",
+    "Class": "UScriptClass'SCS_Node'",
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class'SceneComponent'",
+        "ObjectPath": "/Script/Engine"
+      },
+      "*97911ad1aa": {
+        "ObjectName": "SceneComponent'WeapBizonPP19_C:DefaultSceneRoot_GEN_VARIABLE'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapBizonPP19.4"
+      },
+      "VariableGuid": "D6F634D4-4DBF99D6-59773C9A-370D8B0F",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_1",
+    "Outer": "WeapBizonPP19_C",
+    "Class": "UScriptClass'SimpleConstructionScript'",
+    "Properties": {
+      "*2142b6ce55": {
+        "ObjectName": "SCS_Node'WeapBizonPP19_C:SimpleConstructionScript_1.SCS_Node_1'",
+        "ObjectPath": "TslGame/Content/Blueprints/Weapons/WeapBizonPP19.5"
+      }
+    }
+  }
+]
