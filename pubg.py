@@ -50,3 +50,6 @@ def pubgserver():
     res['LiveServer'] = "Closed"
   
   return res
+  
+def pubgmatches(shard, matchId):
+  return requets.get(f"https://api.pubg.com/shards/{shard}/matches/{matchId}",headers={"Accept":"application/vnd.api+json"}).json()
