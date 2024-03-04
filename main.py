@@ -46,3 +46,6 @@ async def masteryfind(accountId):
 async def pubgstatus():
     return pubg.pubgserver()
 
+@app.get("/pubg/matches/")
+async def pubgmatchget(shard, matchId):
+    return pubg.pubgmatches(shard, matchId)
