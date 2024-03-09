@@ -49,3 +49,7 @@ async def pubgstatus():
 @app.get("/pubg/matches/")
 async def pubgmatchget(shard, matchId):
     return pubg.pubgmatches(shard, matchId)
+    
+@app.get("/pubg/telemetry/")
+async def pubgtelemetryget(shard, matchId):
+    return pubg.pubgtelemetry(shard, matchId)
