@@ -56,7 +56,7 @@ def pubgmatches(shard, matchId):
 
 def pubgtelemetry(shard, matchId):
   matches = pubgmatches(shard, matchId)
-  for x in req['included']:
+  for x in matches['included']:
     if x['type'] == "asset":
       return {"data":x['attributes']['URL']}
   return {"data":None}
