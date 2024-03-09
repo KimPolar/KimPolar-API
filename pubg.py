@@ -53,3 +53,10 @@ def pubgserver():
   
 def pubgmatches(shard, matchId):
   return requests.get(f"https://api.pubg.com/shards/{shard}/matches/{matchId}",headers={"Accept":"application/vnd.api+json"}).json()
+
+def pubgtelemetry(shard, matchId):
+  matches = pubgmatches(shard, matchId)
+  for x in req['included']:
+    if x['type'] == "asset":
+      return {"data":x['attributes']['URL']}
+  return {"data":None}
