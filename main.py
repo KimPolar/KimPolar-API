@@ -44,7 +44,7 @@ async def masteryfind(accountId):
     
 @app.get("/pubg/info/")
 async def findinfo(playerNm):
-    return pubg.info(playerNm)
+    return pubg.userinfo(playerNm)
 
 @app.get("/pubg/status/")
 async def pubgstatus():
