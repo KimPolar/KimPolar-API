@@ -1,5 +1,23 @@
 import requests, json, os
 
+def userinfo(playerNm):
+  headers = {
+    "accept": "application/vnd.api+json",
+    "Authorization": os.environ['PUBG-API-KEY']
+  }
+  player = requests.get(f"https://api.pubg.com/shards/steam/players?filter[playerNames]={playerNm}").json()['data'][0]
+  res = dict()
+  res['accountId'] = player['id']
+  res['accountNm'] = player['attributes']['name']
+  res['shardId'] = player['attributes']['shardId']
+  res['banType'] = player['attributes']['banType']
+  mastery = requests.get("https://api.pubg.com/shards/steam/players/"+res['accountId']+"/survival_mastery").json()['data']['attributes']
+  res['matchPlayed'] = mastery['totalMatchesPlayed']
+  res['levelTier'] = mastery['tier']
+  res['level'] = mastery['level']
+  res['totalLevel'] = mastery['level'] + ((mastery['tier']-1)*500)
+  
+  return res
 def finder(accountId):
   headers = {
     "accept": "application/vnd.api+json",
