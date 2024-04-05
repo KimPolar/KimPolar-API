@@ -56,16 +56,16 @@ def pubgserver():
   try:
     test = test.json()['health']
     if test == True:
-      res['TestServer'] = "Open"
+      res['TestServer'] = True
   except:
-    res['TestServer'] = "Closed"
+    res['TestServer'] = False
 
   try:
     live = live.json()['health']
     if live == True:
-      res['LiveServer'] = "Open"
+      res['LiveServer'] = True
   except:
-    res['LiveServer'] = "Closed"
+    res['LiveServer'] = False
   
   return res
   
