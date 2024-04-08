@@ -4,8 +4,8 @@ def getTrain(lineNum):
   lineCd = {"1":"1001", "2":"1002", "3":"1003", "4":"1004", "5":"1005", "6":"1006", "7":"1007", "8":"1008", "9":"1009", "K":"1063", "A":"1065", "G":"1067", "SU":"1075", "SI":"1077", "KK":"1081", "UI":"1092", "SH":"1093", "XA":"1032"}
   req = requests.get(f"http://m.bus.go.kr/mBus/subway/getLcByRoute.bms?subwayId={lineCd[lineNum]}").json()
   t_L = []
+  dA = ['완행','급행','','','','','','특급']
   for x in req['resultList']:
-    dA = ['완행','급행']
     t_L.append({"trainNo":str(int(x['trainNo'])), "statnNm":x['statnNm'], "destnNm":x['statnTnm'], 'status':x['trainSttus'], 'directAt':dA[int(x['directAt'])],'dir':x['updnLine']})
   return t_L
 
