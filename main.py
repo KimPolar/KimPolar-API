@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import krmetro as km, hangang as hg, json, random, color, pubg, os
+import krmetro as km, hangang as hg, json, random, color, pubg, os, health
 
 app = FastAPI()
 
@@ -53,6 +53,10 @@ async def pubgstatus():
 @app.get("/pubg/matches/")
 async def pubgmatchget(shard, matchId):
     return pubg.pubgmatches(shard, matchId)
+
+@app.get("/health/bmi/")
+async def bmicalc(height, weight):
+    return health.bmi(height, weight)
     
 @app.get("/pubg/telemetry/")
 async def pubgtelemetryget(shard, matchId):
