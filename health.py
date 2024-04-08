@@ -3,4 +3,4 @@ def bmi(cm, kg):
   m = cm/100
   bmi = kg/(m**2)
   idealWeight = 21*(m**2)
-  return {"height":cm,"weight":kg,"bmi":bmi,"idealWeight":idealWeight}
+  return {"height":cm,"weight":kg,"bmi":round(bmi, 2),"idealWeight":round(idealWeight,2)}
