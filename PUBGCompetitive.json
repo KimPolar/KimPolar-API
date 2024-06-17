@@ -1,5 +1,897 @@
 [
-    {"name":"EWC 2024: KOR Qual","content":"Esports World Cup 2024: Korea Qualifier","start_date":"2024-06-29", "end_date":"2024-07-14"},
-    {"name":"EWC 2024: EMEA Qual","content":"Esports World Cup 2024: EMEA Qualifier","start_date":"2024-06-28", "end_date":"2024-07-14"},
-    {"name":"EWC 2024","content":"Esports World Cup 2024","start_date":"2024-08-21", "end_date":"2024-08-25"}
+  {
+    "content": "Gamescom PUBG Invitational 2017 - Duos TPP",
+    "start_date": "2017-08-24",
+    "end_date": "2017-08-24"
+  },
+  {
+    "content": "Gamescom PUBG Invitational 2017 - Duos FPP",
+    "start_date": "2017-08-25",
+    "end_date": "2017-08-25"
+  },
+  {
+    "content": "Gamescom PUBG Invitational 2017 - Squad",
+    "start_date": "2017-08-23",
+    "end_date": "2017-08-26"
+  },
+  {
+    "content": "Gamescom PUBG Invitational 2017 - Solo",
+    "start_date": "2017-08-23",
+    "end_date": "2017-08-26"
+  },
+  {
+    "content": "PUBG Asia Invitational G-Star 2017 - Squad",
+    "start_date": "2017-11-17",
+    "end_date": "2017-11-19"
+  },
+  {
+    "content": "PUBG Asia Invitational G-Star 2017 - Solo",
+    "start_date": "2017-11-17",
+    "end_date": "2017-11-19"
+  },
+  {
+    "content": "PUBG Asia Invitational G-Star 2017 - Duo",
+    "start_date": "2017-11-17",
+    "end_date": "2017-11-19"
+  },
+  {
+    "content": "AfreecaTV PUBG League - Season 1",
+    "start_date": "2018-05-05",
+    "end_date": "2018-05-05"
+  },
+  {
+    "content": "PUBG Survival Series 2018 - Season 1",
+    "start_date": "2018-05-19",
+    "end_date": "2018-05-19"
+  },
+  {
+    "content": "PUBG Warfare Masters 2018 - Pro Tour",
+    "start_date": "2018-06-13",
+    "end_date": "2018-06-13"
+  },
+  {
+    "content": "AfreecaTV PUBG League - Season 2",
+    "start_date": "2018-06-30",
+    "end_date": "2018-06-30"
+  },
+  {
+    "content": "PUBG Survival Series 2018 - Season 2",
+    "start_date": "2018-07-07",
+    "end_date": "2018-07-07"
+  },
+  {
+    "content": "PUBG Global Invitational 2018 - TPP",
+    "start_date": "2018-07-25",
+    "end_date": "2018-07-26"
+  },
+  {
+    "content": "PUBG Global Invitational 2018 - Charity Showdown",
+    "start_date": "2018-07-27",
+    "end_date": "2018-07-27"
+  },
+  {
+    "content": "PUBG Global Invitational 2018 - FPP",
+    "start_date": "2018-07-28",
+    "end_date": "2018-07-29"
+  },
+  {
+    "content": "PUBG Asia Invitational 2019",
+    "start_date": "2019-01-10",
+    "end_date": "2019-01-12"
+  },
+  {
+    "content": "National PUBG League - Phase 1",
+    "start_date": "2019-02-01",
+    "end_date": "2019-03-09"
+  },
+  {
+    "content": "PUBG Korea League 2019 - Phase 1",
+    "start_date": "2019-02-11",
+    "end_date": "2019-03-23"
+  },
+  {
+    "content": "PUBG Master League 2019 - Phase 1: Finals",
+    "start_date": "2019-03-29",
+    "end_date": "2019-03-31"
+  },
+  {
+    "content": "PUBG Europe League 2019: Phase 1",
+    "start_date": "2019-03-21",
+    "end_date": "2019-04-07"
+  },
+  {
+    "content": "FACEIT Global Summit: Sunday Roast Showmatch",
+    "start_date": "2019-04-21",
+    "end_date": "2019-04-21"
+  },
+  {
+    "content": "FACEIT Global Summit: PUBG Classic",
+    "start_date": "2019-04-16",
+    "end_date": "2019-04-21"
+  },
+  {
+    "content": "PUBG Champions League 2019 - Spring",
+    "start_date": "2019-04-29",
+    "end_date": "2019-06-09"
+  },
+  {
+    "content": "National PUBG League - Phase 2",
+    "start_date": "2019-05-04",
+    "end_date": "2019-06-09"
+  },
+  {
+    "content": "PUBG Korea League 2019 - Phase 2",
+    "start_date": "2019-05-20",
+    "end_date": "2019-06-29"
+  },
+  {
+    "content": "PUBG Europe League 2019 - Phase 2",
+    "start_date": "2019-05-17",
+    "end_date": "2019-07-07"
+  },
+  {
+    "content": "GLL Grand Slam: PUBG Classic",
+    "start_date": "2019-07-19",
+    "end_date": "2019-07-21"
+  },
+  {
+    "content": "GLL Grand Slam: Showdown",
+    "start_date": "2019-07-18",
+    "end_date": "2019-07-21"
+  },
+  {
+    "content": "MET Asia Series: PUBG Classic",
+    "start_date": "2019-07-26",
+    "end_date": "2019-07-28"
+  },
+  {
+    "content": "PUBG Nations Cup 2019",
+    "start_date": "2019-08-09",
+    "end_date": "2019-08-11"
+  },
+  {
+    "content": "PUBG Champions League 2019: Summer Playoffs",
+    "start_date": "2019-09-25",
+    "end_date": "2019-09-29"
+  },
+  {
+    "content": "National PUBG League - Phase 3",
+    "start_date": "2019-09-07",
+    "end_date": "2019-09-29"
+  },
+  {
+    "content": "PUBG Europe League 2019 - Phase 3",
+    "start_date": "2019-08-30",
+    "end_date": "2019-10-06"
+  },
+  {
+    "content": "PUBG Korea League 2019 - Phase 3",
+    "start_date": "2019-08-26",
+    "end_date": "2019-10-12"
+  },
+  {
+    "content": "PUBG China Masters 2019",
+    "start_date": "2019-10-08",
+    "end_date": "2019-10-13"
+  },
+  {
+    "content": "PUBG Global Championship 2019",
+    "start_date": "2019-11-08",
+    "end_date": "2019-11-24"
+  },
+  {
+    "content": "PUBG Continental Series: Charity Showdown - Asia Pacific",
+    "start_date": "2020-05-14",
+    "end_date": "2020-05-23"
+  },
+  {
+    "content": "PUBG Continental Series: Charity Showdown - Asia",
+    "start_date": "2020-05-15",
+    "end_date": "2020-05-24"
+  },
+  {
+    "content": "PUBG Continental Series: Charity Showdown - NA",
+    "start_date": "2020-05-21",
+    "end_date": "2020-05-24"
+  },
+  {
+    "content": "PUBG Continental Series: Charity Showdown - Europe",
+    "start_date": "2020-05-15",
+    "end_date": "2020-05-31"
+  },
+  {
+    "content": "PUBG Continental Series 1: North America",
+    "start_date": "2020-05-29",
+    "end_date": "2020-07-03"
+  },
+  {
+    "content": "PUBG Continental Series 1: Asia Pacific",
+    "start_date": "2020-06-25",
+    "end_date": "2020-07-04"
+  },
+  {
+    "content": "PUBG Continental Series 1: Europe",
+    "start_date": "2020-06-09",
+    "end_date": "2020-07-05"
+  },
+  {
+    "content": "PUBG Continental Series 1: Asia",
+    "start_date": "2020-06-26",
+    "end_date": "2020-07-05"
+  },
+  {
+    "content": "PUBG Continental Series 2: Asia",
+    "start_date": "2020-08-27",
+    "end_date": "2020-09-09"
+  },
+  {
+    "content": "PUBG Continental Series 2: North America",
+    "start_date": "2020-07-24",
+    "end_date": "2020-09-11"
+  },
+  {
+    "content": "PUBG Continental Series 2: Asia Pacific",
+    "start_date": "2020-08-29",
+    "end_date": "2020-09-13"
+  },
+  {
+    "content": "PUBG Continental Series 2: Europe",
+    "start_date": "2020-08-07",
+    "end_date": "2020-09-13"
+  },
+  {
+    "content": "PUBG Continental Series 3: North America",
+    "start_date": "2020-10-02",
+    "end_date": "2020-11-20"
+  },
+  {
+    "content": "PUBG Continental Series 3: Asia",
+    "start_date": "2020-11-05",
+    "end_date": "2020-11-20"
+  },
+  {
+    "content": "PUBG Continental Series 3: Asia Pacific",
+    "start_date": "2020-11-07",
+    "end_date": "2020-11-22"
+  },
+  {
+    "content": "PUBG Continental Series 3: Europe",
+    "start_date": "2020-10-13",
+    "end_date": "2020-11-22"
+  },
+  {
+    "content": "PUBG Global Invitational.S 2021 - Survival Tournament",
+    "start_date": "2021-03-05",
+    "end_date": "2021-03-07"
+  },
+  {
+    "content": "PUBG Global Invitational.S 2021",
+    "start_date": "2021-02-05",
+    "end_date": "2021-03-28"
+  },
+  {
+    "content": "PUBG Continental Series 4: Asia Pacific",
+    "start_date": "2021-06-10",
+    "end_date": "2021-06-25"
+  },
+  {
+    "content": "PUBG Continental Series 4: Americas",
+    "start_date": "2021-06-10",
+    "end_date": "2021-06-25"
+  },
+  {
+    "content": "PUBG Continental Series 4: Europe",
+    "start_date": "2021-06-12",
+    "end_date": "2021-06-27"
+  },
+  {
+    "content": "PUBG Continental Series 4: Asia",
+    "start_date": "2021-06-12",
+    "end_date": "2021-06-27"
+  },
+  {
+    "content": "PUBG Continental Series 5: Americas",
+    "start_date": "2021-09-16",
+    "end_date": "2020-10-01"
+  },
+  {
+    "content": "PUBG Continental Series 5: Asia Pacific",
+    "start_date": "2021-09-16",
+    "end_date": "2020-10-01"
+  },
+  {
+    "content": "PUBG Continental Series 5: Europe",
+    "start_date": "2021-09-18",
+    "end_date": "2020-10-03"
+  },
+  {
+    "content": "PUBG Continental Series 5: Asia",
+    "start_date": "2021-09-18",
+    "end_date": "2020-10-03"
+  },
+  {
+    "content": "PUBG Global Championship 2021",
+    "start_date": "2021-11-19",
+    "end_date": "2021-12-19"
+  },
+  {
+    "content": "PUBG Continental Series 6: Asia Pacific",
+    "start_date": "2022-04-15",
+    "end_date": "2022-04-24"
+  },
+  {
+    "content": "PUBG Continental Series 6: Americas",
+    "start_date": "2022-04-15",
+    "end_date": "2022-04-24"
+  },
+  {
+    "content": "PUBG Continental Series 6: Europe",
+    "start_date": "2022-04-29",
+    "end_date": "2022-05-08"
+  },
+  {
+    "content": "PUBG Continental Series 6: Asia",
+    "start_date": "2022-04-29",
+    "end_date": "2022-05-08"
+  },
+  {
+    "content": "PUBG Nations Cup 2022",
+    "start_date": "2022-06-16",
+    "end_date": "2022-06-19"
+  },
+  {
+    "content": "PUBG Continental Series 7: Asia Pacific",
+    "start_date": "2022-09-16",
+    "end_date": "2022-09-25"
+  },
+  {
+    "content": "PUBG Continental Series 7: Americas",
+    "start_date": "2022-09-16",
+    "end_date": "2022-09-25"
+  },
+  {
+    "content": "PUBG Continental Series 7: Europe",
+    "start_date": "2022-09-30",
+    "end_date": "2020-10-09"
+  },
+  {
+    "content": "PUBG Continental Series 7: Asia",
+    "start_date": "2022-09-30",
+    "end_date": "2020-10-09"
+  },
+  {
+    "content": "PUBG Global Championship 2022",
+    "start_date": "2022-11-01",
+    "end_date": "2022-11-20"
+  },
+  {
+    "content": "PUBG Global Series 1 2023",
+    "start_date": "2023-04-27",
+    "end_date": "2023-05-07"
+  },
+  {
+    "content": "PUBG Global Series 2 2023",
+    "start_date": "2023-08-10",
+    "end_date": "2023-08-20"
+  },
+  {
+    "content": "PUBG Nations Cup 2023",
+    "start_date": "2023-09-15",
+    "end_date": "2023-09-17"
+  },
+  {
+    "content": "PUBG Global Championship 2023",
+    "start_date": "2023-11-18",
+    "end_date": "2023-12-03"
+  },
+  {
+    "content": "PUBG Global Series 3 2024",
+    "start_date": "2024-05-20",
+    "end_date": "2024-05-26"
+  },
+  {
+    "content": "PUBG Global Series 4 2024",
+    "start_date": "2024-06-03",
+    "end_date": "2024-06-09"
+  },
+  {
+    "content": "Esports World Cup 2024",
+    "start_date": "2024-08-21",
+    "end_date": "2024-08-25"
+  },
+  {
+    "content": "PUBG Nations Cup 2024",
+    "start_date": "2024-09-06",
+    "end_date": "2024-09-08"
+  },
+  {
+    "content": "PUBG Global Championship 2024",
+    "start_date": "2024-12-09",
+    "end_date": "2024-12-22"
+  },
+  {
+    "content": "YY Pan Star League Season 3",
+    "start_date": "2017-12-17",
+    "end_date": "2017-12-24"
+  },
+  {
+    "content": "Douyu PUBG Golden Legends Season 2",
+    "start_date": "2017-11-09",
+    "end_date": "2017-12-09"
+  },
+  {
+    "content": "IEM XII Oakland PUBG Invitational",
+    "start_date": "2017-11-18",
+    "end_date": "2017-11-19"
+  },
+  {
+    "content": "AfreecaTV PUBG League - Pilot Season",
+    "start_date": "2018-02-03",
+    "end_date": "2018-02-03"
+  },
+  {
+    "content": "PUBG Survival Series 2018 - Beta Season: Regular Season",
+    "start_date": "2018-01-14",
+    "end_date": "2018-02-04"
+  },
+  {
+    "content": "PandaTV PUBG League Season 1",
+    "start_date": "2018-02-10",
+    "end_date": "2018-02-10"
+  },
+  {
+    "content": "PUBG Survival Series 2018 - Beta Season",
+    "start_date": "2018-02-11",
+    "end_date": "2018-02-11"
+  },
+  {
+    "content": "IEM XII Katowice PUBG Invitational",
+    "start_date": "2018-02-24",
+    "end_date": "2018-02-25"
+  },
+  {
+    "content": "StarSeries & i-League PUBG Season 1",
+    "start_date": "2018-03-01",
+    "end_date": "2018-03-04"
+  },
+  {
+    "content": "PUBG Warfare Masters 2018 - Pilot Season",
+    "start_date": "2018-03-16",
+    "end_date": "2018-03-16"
+  },
+  {
+    "content": "PGL-PUBG Spring Invitational 2018",
+    "start_date": "2018-03-22",
+    "end_date": "2018-03-25"
+  },
+  {
+    "content": "KakaoTV PUBG #1 Club Match",
+    "start_date": "2018-03-17",
+    "end_date": "2018-04-07"
+  },
+  {
+    "content": "Global Loot League Season 1",
+    "start_date": "2018-04-20",
+    "end_date": "2018-04-22"
+  },
+  {
+    "content": "PUBG Australia Invitational ZIMO 2018",
+    "start_date": "2018-04-26",
+    "end_date": "2018-04-27"
+  },
+  {
+    "content": "PUBG Survival Series 2018 - Season 1: Regular Season",
+    "start_date": "2018-04-15",
+    "end_date": "2018-05-09"
+  },
+  {
+    "content": "PUBG China Pro Invitational 2018 FPP Championship",
+    "start_date": "2018-05-31",
+    "end_date": "2018-06-01"
+  },
+  {
+    "content": "PUBG China Pro Invitational 2018 TPP Championship",
+    "start_date": "2018-06-02",
+    "end_date": "2018-06-03"
+  },
+  {
+    "content": "DreamHack PUBG Showdown Austin 2018",
+    "start_date": "2018-06-02",
+    "end_date": "2018-06-03"
+  },
+  {
+    "content": "MetalHogs PUBG League",
+    "start_date": "2018-04-25",
+    "end_date": "2018-06-17"
+  },
+  {
+    "content": "PUBG TAMGame League - Summer 2018",
+    "start_date": "2018-06-23",
+    "end_date": "2018-06-23"
+  },
+  {
+    "content": "PUBG Global Invitational 2018 - North America",
+    "start_date": "2018-06-22",
+    "end_date": "2018-06-24"
+  },
+  {
+    "content": "PUBG Southeast Asia Championship 2018",
+    "start_date": "2018-06-23",
+    "end_date": "2018-06-24"
+  },
+  {
+    "content": "PUBG Global Invitational 2018 - OCE",
+    "start_date": "2018-06-22",
+    "end_date": "2018-06-24"
+  },
+  {
+    "content": "PUBG Global Invitational 2018 - CIS",
+    "start_date": "2018-06-21",
+    "end_date": "2018-06-24"
+  },
+  {
+    "content": "PUBG Survival Series 2018 Pro Tour - Season 2",
+    "start_date": "2018-06-10",
+    "end_date": "2018-06-26"
+  },
+  {
+    "content": "Twitch Rivals - Thailand",
+    "start_date": "2018-06-29",
+    "end_date": "2018-06-29"
+  },
+  {
+    "content": "PUBG Global Invitational 2018 - Latin America",
+    "start_date": "2018-06-29",
+    "end_date": "2018-07-01"
+  },
+  {
+    "content": "PUBG Global Invitational 2018 - Europe",
+    "start_date": "2018-06-29",
+    "end_date": "2018-07-01"
+  },
+  {
+    "content": "PUBG Pan-Continental",
+    "start_date": "2018-07-14",
+    "end_date": "2018-07-15"
+  },
+  {
+    "content": "Global Loot League Season 2",
+    "start_date": "2018-08-10",
+    "end_date": "2018-08-12"
+  },
+  {
+    "content": "Twitch Rivals - LATAM #2",
+    "start_date": "2018-08-23",
+    "end_date": "2018-08-23"
+  },
+  {
+    "content": "Gamescom 2018 PUBG Challenge Duos",
+    "start_date": "2018-08-23",
+    "end_date": "2018-08-25"
+  },
+  {
+    "content": "Hong Kong PUBG World Invitational",
+    "start_date": "2018-08-25",
+    "end_date": "2018-08-26"
+  },
+  {
+    "content": "Seoul Cup OGN Supermatch 2018",
+    "start_date": "2018-08-25",
+    "end_date": "2018-08-26"
+  },
+  {
+    "content": "Twitch Rivals - Thailand II",
+    "start_date": "2018-08-29",
+    "end_date": "2018-08-29"
+  },
+  {
+    "content": "StarSeries & i-League PUBG Season 2",
+    "start_date": "2018-08-25",
+    "end_date": "2018-09-02"
+  },
+  {
+    "content": "Broadcaster Royale",
+    "start_date": "2018-08-31",
+    "end_date": "2018-09-02"
+  },
+  {
+    "content": "Douyu PUBG Golden Legends 2018",
+    "start_date": "2018-09-13",
+    "end_date": "2018-09-16"
+  },
+  {
+    "content": "Twitch Rivals - Thailand III",
+    "start_date": "2018-09-28",
+    "end_date": "2018-09-28"
+  },
+  {
+    "content": "Bausch+Lomb ImbaTV Super League",
+    "start_date": "2018-09-27",
+    "end_date": "2018-09-30"
+  },
+  {
+    "content": "Polaris Series 2018",
+    "start_date": "2018-09-30",
+    "end_date": "2018-09-30"
+  },
+  {
+    "content": "PGL-PUBG Fall Invitational 2018",
+    "start_date": "2018-10-11",
+    "end_date": "2018-10-14"
+  },
+  {
+    "content": "Huya Tianming Cup 2018",
+    "start_date": "2018-10-17",
+    "end_date": "2018-10-19"
+  },
+  {
+    "content": "JIB SEAC: Thailand Championship",
+    "start_date": "2018-10-26",
+    "end_date": "2018-10-26"
+  },
+  {
+    "content": "JIB PUBG Southeast Asia Championship 2018",
+    "start_date": "2018-10-27",
+    "end_date": "2018-10-28"
+  },
+  {
+    "content": "Broadcaster Royale: OMEN Challenge",
+    "start_date": "2018-10-26",
+    "end_date": "2018-10-28"
+  },
+  {
+    "content": "Jingdong Cup Season 2",
+    "start_date": "2018-11-09",
+    "end_date": "2018-11-09"
+  },
+  {
+    "content": "Metalhogs PUBG League Season 2 - Regular Season",
+    "start_date": "2018-09-27",
+    "end_date": "2018-11-15"
+  },
+  {
+    "content": "PUBG Korea League Season 2 - Regular Season",
+    "start_date": "2018-10-01",
+    "end_date": "2018-11-23"
+  },
+  {
+    "content": "PUBG China Pro Invitational Season 2",
+    "start_date": "2018-11-17",
+    "end_date": "2018-11-25"
+  },
+  {
+    "content": "Twitch Rivals - Thailand IV",
+    "start_date": "2018-11-26",
+    "end_date": "2018-11-26"
+  },
+  {
+    "content": "PUBG Korea League Season 2 - Finals",
+    "start_date": "2018-12-01",
+    "end_date": "2018-12-01"
+  },
+  {
+    "content": "Global Loot League Season 3",
+    "start_date": "2018-12-06",
+    "end_date": "2018-12-08"
+  },
+  {
+    "content": "Metalhogs PUBG League Season 2 - Finals",
+    "start_date": "2018-12-06",
+    "end_date": "2018-12-09"
+  },
+  {
+    "content": "PUBG JAPAN SERIES Winter Invitational 2018",
+    "start_date": "2018-12-16",
+    "end_date": "2018-12-16"
+  },
+  {
+    "content": "WEGL Weibo Cup",
+    "start_date": "2018-12-22",
+    "end_date": "2018-12-23"
+  },
+  {
+    "content": "National PUBG League Preseason",
+    "start_date": "2019-01-07",
+    "end_date": "2019-01-13"
+  },
+  {
+    "content": "Asia Pacific Predator League 2019",
+    "start_date": "2019-02-15",
+    "end_date": "2019-02-17"
+  },
+  {
+    "content": "National PUBG League - Royale: Phase 1",
+    "start_date": "2019-02-22",
+    "end_date": "2019-02-24"
+  },
+  {
+    "content": "PUBG JAPAN SERIES Season 2 - Grade 1: Phase 1",
+    "start_date": "2019-02-23",
+    "end_date": "2019-03-09"
+  },
+  {
+    "content": "Douyu PUBG Golden Legends 2019",
+    "start_date": "2019-03-01",
+    "end_date": "2019-03-10"
+  },
+  {
+    "content": "National PUBG League: Contenders - Phase 1",
+    "start_date": "2019-02-05",
+    "end_date": "2019-03-12"
+  },
+  {
+    "content": "PUBG Europe League Contenders 2019 - Phase 1",
+    "start_date": "2019-02-21",
+    "end_date": "2019-03-17"
+  },
+  {
+    "content": "ESL LA League: Season 2",
+    "start_date": "2019-03-07",
+    "end_date": "2019-03-22"
+  },
+  {
+    "content": "PUBG Master League 2019 - Phase 1: Regular Season",
+    "start_date": "2019-03-13",
+    "end_date": "2019-03-24"
+  },
+  {
+    "content": "PUBG Southeast Asia Championship 2019 - Phase 1",
+    "start_date": "2019-03-23",
+    "end_date": "2019-03-24"
+  },
+  {
+    "content": "ESL AU & NZ Championship - Phase 1",
+    "start_date": "2019-03-15",
+    "end_date": "2019-03-30"
+  },
+  {
+    "content": "PUBG Development League 2019 - Spring Finals",
+    "start_date": "2019-03-23",
+    "end_date": "2019-03-31"
+  },
+  {
+    "content": "PUBG Korea Contenders 2019 - Phase 1",
+    "start_date": "2019-02-19",
+    "end_date": "2019-03-31"
+  },
+  {
+    "content": "PUBG JAPAN SERIES Season 2 - Grade 1: Phase 2",
+    "start_date": "2019-03-23",
+    "end_date": "2019-04-06"
+  },
+  {
+    "content": "PUBG JAPAN SERIES Season 2",
+    "start_date": "2019-02-23",
+    "end_date": "2019-04-06"
+  },
+  {
+    "content": "Twitch Rivals Duo - Europe",
+    "start_date": "2019-05-01",
+    "end_date": "2019-05-01"
+  },
+  {
+    "content": "PUBG Europe League 2019 - Kick-off Cup",
+    "start_date": "2019-04-30",
+    "end_date": "2019-05-05"
+  },
+  {
+    "content": "National PUBG League - Royale: Phase 2",
+    "start_date": "2019-05-25",
+    "end_date": "2019-05-26"
+  },
+  {
+    "content": "Twitch Rivals Duo - North America",
+    "start_date": "2019-05-29",
+    "end_date": "2019-05-29"
+  },
+  {
+    "content": "Twitch Rivals Duo - Europe 2",
+    "start_date": "2019-05-29",
+    "end_date": "2019-05-29"
+  },
+  {
+    "content": "GLL LATAM Masters - Phase 2",
+    "start_date": "2019-06-07",
+    "end_date": "2019-06-09"
+  },
+  {
+    "content": "National PUBG League: Contenders - Phase 2",
+    "start_date": "2019-05-07",
+    "end_date": "2019-06-11"
+  },
+  {
+    "content": "PUBG Vietnam Series",
+    "start_date": "2019-06-09",
+    "end_date": "2019-06-14"
+  },
+  {
+    "content": "PUBG JAPAN SERIES Season 3 - Grade 1: Phase 1",
+    "start_date": "2019-06-01",
+    "end_date": "2019-06-15"
+  },
+  {
+    "content": "PUBG Master League 2019 - Phase 2: Regular Season",
+    "start_date": "2019-05-24",
+    "end_date": "2019-06-16"
+  },
+  {
+    "content": "ESL AU & NZ Championship - Phase 2",
+    "start_date": "2019-05-28",
+    "end_date": "2019-06-19"
+  },
+  {
+    "content": "ESL LA League: Season 3",
+    "start_date": "2019-06-13",
+    "end_date": "2019-06-28"
+  },
+  {
+    "content": "PUBG Southeast Asia Championship 2019 - Phase 2",
+    "start_date": "2019-06-29",
+    "end_date": "2019-06-30"
+  },
+  {
+    "content": "Douyu PUBG Golden Legends Season 7",
+    "start_date": "2019-06-21",
+    "end_date": "2019-06-30"
+  },
+  {
+    "content": "PUBG Europe League Contenders 2019 - Phase 2",
+    "start_date": "2019-05-13",
+    "end_date": "2019-07-04"
+  },
+  {
+    "content": "PUBG Master League 2019 - Phase 2: Finals",
+    "start_date": "2019-07-05",
+    "end_date": "2019-07-07"
+  },
+  {
+    "content": "PUBG Korea Contenders 2019 - Phase 2",
+    "start_date": "2019-05-28",
+    "end_date": "2019-07-07"
+  },
+  {
+    "content": "WEGL Weibo Cup 2019",
+    "start_date": "2019-07-09",
+    "end_date": "2019-07-10"
+  },
+  {
+    "content": "PUBG JAPAN SERIES Season 3 - Grade 1: Phase 2",
+    "start_date": "2019-06-29",
+    "end_date": "2019-07-13"
+  },
+  {
+    "content": "PUBG JAPAN SERIES Season 3",
+    "start_date": "2019-06-01",
+    "end_date": "2019-07-13"
+  },
+  {
+    "content": "PUBG Development League 2019 - Summer Finals",
+    "start_date": "2019-07-12",
+    "end_date": "2019-07-14"
+  },
+  {
+    "content": "Huya PUBG League 2019",
+    "start_date": "2019-07-20",
+    "end_date": "2019-07-21"
+  },
+  {
+    "content": "Arcadous Pro League 2019: Summer",
+    "start_date": "2019-08-03",
+    "end_date": "2019-08-09"
+  },
+  {
+    "content": "PUBG JAPAN SERIES Season 4 - Grade 1: Phase 1",
+    "start_date": "2019-08-31",
+    "end_date": "2019-09-21"
+  },
+  {
+    "content": "PUBG Champions League 2019: Summer Regular Season",
+    "start_date": "2019-08-19",
+    "end_date": "2019-09-22"
+  },
+  {
+    "content": "ESL AU & NZ Championship - Phase 3: Regular Season",
+    "start_date": "2019-09-03",
+    "end_date": "2019-09-25"
+  }
 ]
