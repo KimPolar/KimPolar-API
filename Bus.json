@@ -1,0 +1,4682 @@
+[
+  {
+    "serialNo": 3001,
+    "carNo": "72자3001",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3002,
+    "carNo": "72자3002",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3003,
+    "carNo": "72자3003",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3004,
+    "carNo": "72자3004",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3005,
+    "carNo": "72자3005",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3006,
+    "carNo": "72자3006",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3007,
+    "carNo": "72자3007",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3008,
+    "carNo": "72자3008",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3009,
+    "carNo": "72자3009",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3010,
+    "carNo": "72자3010",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3011,
+    "carNo": "72자3011",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3012,
+    "carNo": "72자3012",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3013,
+    "carNo": "72자3013",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3014,
+    "carNo": "72자3014",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3015,
+    "carNo": "72자3015",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3016,
+    "carNo": "72자3016",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3017,
+    "carNo": "72자3017",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3018,
+    "carNo": "72자3018",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3019,
+    "carNo": "72자3019",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3020,
+    "carNo": "72자3020",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3021,
+    "carNo": "72자3021",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3022,
+    "carNo": "72자3022",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3023,
+    "carNo": "72자3023",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3024,
+    "carNo": "72자3024",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3025,
+    "carNo": "72자3025",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3026,
+    "carNo": "72자3026",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3027,
+    "carNo": "72자3027",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3028,
+    "carNo": "72자3028",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3029,
+    "carNo": "72자3029",
+    "carType": "eBus-7 EV",
+    "carManufact": "BYD",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3030,
+    "carNo": "72자3030",
+    "carType": "eBus-7 EV",
+    "carManufact": "BYD",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3031,
+    "carNo": "72자3031",
+    "carType": "eBus-7 EV",
+    "carManufact": "BYD",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3032,
+    "carNo": "72자3032",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3033,
+    "carNo": "72자3033",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3034,
+    "carNo": "72자3034",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3035,
+    "carNo": "72자3035",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 3036,
+    "carNo": "72자3036",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산시시설관리공단",
+    "lastUpdate": "2024-01-24"
+  },
+  {
+    "serialNo": 1637,
+    "carNo": "70자1637",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1668,
+    "carNo": "70자1668",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1689,
+    "carNo": "70자1689",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1735,
+    "carNo": "70자1735",
+    "carType": "저상 뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1613,
+    "carNo": "70자1613",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1631,
+    "carNo": "70자1631",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1638,
+    "carNo": "70자1638",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1614,
+    "carNo": "70자1614",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1619,
+    "carNo": "70자1619",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1683,
+    "carNo": "70자1683",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1685,
+    "carNo": "70자1685",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1707,
+    "carNo": "70자1707",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1601,
+    "carNo": "70자1601",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1603,
+    "carNo": "70자1603",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1605,
+    "carNo": "70자1605",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1611,
+    "carNo": "70자1611",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1615,
+    "carNo": "70자1615",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1616,
+    "carNo": "70자1616",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1626,
+    "carNo": "70자1626",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1632,
+    "carNo": "70자1632",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1633,
+    "carNo": "70자1633",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1634,
+    "carNo": "70자1634",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1641,
+    "carNo": "70자1641",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1642,
+    "carNo": "70자1642",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1646,
+    "carNo": "70자1646",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1648,
+    "carNo": "70자1648",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1650,
+    "carNo": "70자1650",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1652,
+    "carNo": "70자1652",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1656,
+    "carNo": "70자1656",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1659,
+    "carNo": "70자1659",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1667,
+    "carNo": "70자1667",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1672,
+    "carNo": "70자1672",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1673,
+    "carNo": "70자1673",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1680,
+    "carNo": "70자1680",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1695,
+    "carNo": "70자1695",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1711,
+    "carNo": "70자1711",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1713,
+    "carNo": "70자1713",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1714,
+    "carNo": "70자1714",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1715,
+    "carNo": "70자1715",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1722,
+    "carNo": "70자1722",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1726,
+    "carNo": "70자1726",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1727,
+    "carNo": "70자1727",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1602,
+    "carNo": "70자1602",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1607,
+    "carNo": "70자1607",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1608,
+    "carNo": "70자1608",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1612,
+    "carNo": "70자1612",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1617,
+    "carNo": "70자1617",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1618,
+    "carNo": "70자1618",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1623,
+    "carNo": "70자1623",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1624,
+    "carNo": "70자1624",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1627,
+    "carNo": "70자1627",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1628,
+    "carNo": "70자1628",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1630,
+    "carNo": "70자1630",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1635,
+    "carNo": "70자1635",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1636,
+    "carNo": "70자1636",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1639,
+    "carNo": "70자1639",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1649,
+    "carNo": "70자1649",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1654,
+    "carNo": "70자1654",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1657,
+    "carNo": "70자1657",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1658,
+    "carNo": "70자1658",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1660,
+    "carNo": "70자1660",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1669,
+    "carNo": "70자1669",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1670,
+    "carNo": "70자1670",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1671,
+    "carNo": "70자1671",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1674,
+    "carNo": "70자1674",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1676,
+    "carNo": "70자1676",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1678,
+    "carNo": "70자1678",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1688,
+    "carNo": "70자1688",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1691,
+    "carNo": "70자1691",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1692,
+    "carNo": "70자1692",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1693,
+    "carNo": "70자1693",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1697,
+    "carNo": "70자1697",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1698,
+    "carNo": "70자1698",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1699,
+    "carNo": "70자1699",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1700,
+    "carNo": "70자1700",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1701,
+    "carNo": "70자1701",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1702,
+    "carNo": "70자1702",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1708,
+    "carNo": "70자1708",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1709,
+    "carNo": "70자1709",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1710,
+    "carNo": "70자1710",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1712,
+    "carNo": "70자1712",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1721,
+    "carNo": "70자1721",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1730,
+    "carNo": "70자1730",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1610,
+    "carNo": "70자1610",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1620,
+    "carNo": "70자1620",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1622,
+    "carNo": "70자1622",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1629,
+    "carNo": "70자1629",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1640,
+    "carNo": "70자1640",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1643,
+    "carNo": "70자1643",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1644,
+    "carNo": "70자1644",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1655,
+    "carNo": "70자1655",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1675,
+    "carNo": "70자1675",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1679,
+    "carNo": "70자1679",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1684,
+    "carNo": "70자1684",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1686,
+    "carNo": "70자1686",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1687,
+    "carNo": "70자1687",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1706,
+    "carNo": "70자1706",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1723,
+    "carNo": "70자1723",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1724,
+    "carNo": "70자1724",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1725,
+    "carNo": "70자1725",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1728,
+    "carNo": "70자1728",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1729,
+    "carNo": "70자1729",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1606,
+    "carNo": "70자1606",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1661,
+    "carNo": "70자1661",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1662,
+    "carNo": "70자1662",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1663,
+    "carNo": "70자1663",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1664,
+    "carNo": "70자1664",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1665,
+    "carNo": "70자1665",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1690,
+    "carNo": "70자1690",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1694,
+    "carNo": "70자1694",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1716,
+    "carNo": "70자1716",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1717,
+    "carNo": "70자1717",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1718,
+    "carNo": "70자1718",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1719,
+    "carNo": "70자1719",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1731,
+    "carNo": "70자1731",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1732,
+    "carNo": "70자1732",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1733,
+    "carNo": "70자1733",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1734,
+    "carNo": "70자1734",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1742,
+    "carNo": "70자1742",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1736,
+    "carNo": "70자1736",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1737,
+    "carNo": "70자1737",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1738,
+    "carNo": "70자1738",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1739,
+    "carNo": "70자1739",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1740,
+    "carNo": "70자1740",
+    "carType": "카운티 뉴 브리즈 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1741,
+    "carNo": "70자1741",
+    "carType": "카운티 뉴 브리즈 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1743,
+    "carNo": "70자1743",
+    "carType": "쏠라티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1744,
+    "carNo": "70자1744",
+    "carType": "쏠라티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1604,
+    "carNo": "70자1604",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1609,
+    "carNo": "70자1609",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1625,
+    "carNo": "70자1625",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1645,
+    "carNo": "70자1645",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1647,
+    "carNo": "70자1647",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1651,
+    "carNo": "70자1651",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1666,
+    "carNo": "70자1666",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1677,
+    "carNo": "70자1677",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1696,
+    "carNo": "70자1696",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1621,
+    "carNo": "70자1621",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1653,
+    "carNo": "70자1653",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1703,
+    "carNo": "70자1703",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1705,
+    "carNo": "70자1705",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1681,
+    "carNo": "70자1681",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1682,
+    "carNo": "70자1682",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "새천안교통",
+    "lastUpdate": "2024-07-05"
+  },
+  {
+    "serialNo": 1102,
+    "carNo": "72자1102",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1103,
+    "carNo": "72자1103",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1106,
+    "carNo": "72자1106",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1107,
+    "carNo": "72자1107",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1108,
+    "carNo": "72자1108",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1109,
+    "carNo": "72자1109",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1110,
+    "carNo": "72자1110",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1111,
+    "carNo": "72자1111",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1112,
+    "carNo": "72자1112",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1114,
+    "carNo": "72자1114",
+    "carType": "스마트 110",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1115,
+    "carNo": "72자1115",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1116,
+    "carNo": "72자1116",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1117,
+    "carNo": "72자1117",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1118,
+    "carNo": "72자1118",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1119,
+    "carNo": "72자1119",
+    "carType": "그린시티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1120,
+    "carNo": "72자1120",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1121,
+    "carNo": "72자1121",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1122,
+    "carNo": "72자1122",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1123,
+    "carNo": "72자1123",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1125,
+    "carNo": "72자1125",
+    "carType": "스마트 110",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1126,
+    "carNo": "72자1126",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1127,
+    "carNo": "72자1127",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1128,
+    "carNo": "72자1128",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1129,
+    "carNo": "72자1129",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1130,
+    "carNo": "72자1130",
+    "carType": "스마트 110",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1131,
+    "carNo": "72자1131",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1132,
+    "carNo": "72자1132",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1133,
+    "carNo": "72자1133",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1134,
+    "carNo": "72자1134",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1135,
+    "carNo": "72자1135",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1136,
+    "carNo": "72자1136",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1145,
+    "carNo": "72자1145",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1147,
+    "carNo": "72자1147",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1148,
+    "carNo": "72자1148",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1150,
+    "carNo": "72자1150",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1151,
+    "carNo": "72자1151",
+    "carType": "스마트 110",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1152,
+    "carNo": "72자1152",
+    "carType": "그린시티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1155,
+    "carNo": "72자1155",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1156,
+    "carNo": "72자1156",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1157,
+    "carNo": "72자1157",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1158,
+    "carNo": "72자1158",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1159,
+    "carNo": "72자1159",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1160,
+    "carNo": "72자1160",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1163,
+    "carNo": "72자1163",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1164,
+    "carNo": "72자1164",
+    "carType": "그린시티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1165,
+    "carNo": "72자1165",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1169,
+    "carNo": "72자1169",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1170,
+    "carNo": "72자1170",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1173,
+    "carNo": "72자1173",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1174,
+    "carNo": "72자1174",
+    "carType": "스마트 110",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1175,
+    "carNo": "72자1175",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1149,
+    "carNo": "72자1149",
+    "carType": "그린시티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "아산여객",
+    "lastUpdate": "2024-06-01"
+  },
+  {
+    "serialNo": 1001,
+    "carNo": "72자1001",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1002,
+    "carNo": "72자1002",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1003,
+    "carNo": "72자1003",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1004,
+    "carNo": "72자1004",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1005,
+    "carNo": "72자1005",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1006,
+    "carNo": "72자1006",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1007,
+    "carNo": "72자1007",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1008,
+    "carNo": "72자1008",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1009,
+    "carNo": "72자1009",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1010,
+    "carNo": "72자1010",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1011,
+    "carNo": "72자1011",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1012,
+    "carNo": "72자1012",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1013,
+    "carNo": "72자1013",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1014,
+    "carNo": "72자1014",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1015,
+    "carNo": "72자1015",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1016,
+    "carNo": "72자1016",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1017,
+    "carNo": "72자1017",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1018,
+    "carNo": "72자1018",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1019,
+    "carNo": "72자1019",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1022,
+    "carNo": "72자1022",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1023,
+    "carNo": "72자1023",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1024,
+    "carNo": "72자1024",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1025,
+    "carNo": "72자1025",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1026,
+    "carNo": "72자1026",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1027,
+    "carNo": "72자1027",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1028,
+    "carNo": "72자1028",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1029,
+    "carNo": "72자1029",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1030,
+    "carNo": "72자1030",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1031,
+    "carNo": "72자1031",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1032,
+    "carNo": "72자1032",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1033,
+    "carNo": "72자1033",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1034,
+    "carNo": "72자1034",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1035,
+    "carNo": "72자1035",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1036,
+    "carNo": "72자1036",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1037,
+    "carNo": "72자1037",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1038,
+    "carNo": "72자1038",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1039,
+    "carNo": "72자1039",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1040,
+    "carNo": "72자1040",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1041,
+    "carNo": "72자1041",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1042,
+    "carNo": "72자1042",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1043,
+    "carNo": "72자1043",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1044,
+    "carNo": "72자1044",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1045,
+    "carNo": "72자1045",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1046,
+    "carNo": "72자1046",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1047,
+    "carNo": "72자1047",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1048,
+    "carNo": "72자1048",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1049,
+    "carNo": "72자1049",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1050,
+    "carNo": "72자1050",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1051,
+    "carNo": "72자1051",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1052,
+    "carNo": "72자1052",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1053,
+    "carNo": "72자1053",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1054,
+    "carNo": "72자1054",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1055,
+    "carNo": "72자1055",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1056,
+    "carNo": "72자1056",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1057,
+    "carNo": "72자1057",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1058,
+    "carNo": "72자1058",
+    "carType": "그린시티 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1059,
+    "carNo": "72자1059",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1060,
+    "carNo": "72자1060",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1061,
+    "carNo": "72자1061",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1062,
+    "carNo": "72자1062",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1063,
+    "carNo": "72자1063",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1065,
+    "carNo": "72자1065",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1066,
+    "carNo": "72자1066",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1068,
+    "carNo": "72자1068",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1069,
+    "carNo": "72자1069",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1070,
+    "carNo": "72자1070",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1071,
+    "carNo": "72자1071",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1072,
+    "carNo": "72자1072",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1073,
+    "carNo": "72자1073",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1074,
+    "carNo": "72자1074",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1075,
+    "carNo": "72자1075",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1076,
+    "carNo": "72자1076",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1077,
+    "carNo": "72자1077",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1078,
+    "carNo": "72자1078",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1079,
+    "carNo": "72자1079",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1080,
+    "carNo": "72자1080",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1081,
+    "carNo": "72자1081",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1085,
+    "carNo": "72자1085",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1086,
+    "carNo": "72자1086",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1087,
+    "carNo": "72자1087",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1088,
+    "carNo": "72자1088",
+    "carType": "뉴슈퍼에어로시티 F/L 디젤 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1094,
+    "carNo": "72자1094",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1095,
+    "carNo": "72자1095",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1096,
+    "carNo": "72자1096",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1097,
+    "carNo": "72자1097",
+    "carType": "일렉시티 FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "온양교통",
+    "lastUpdate": "2024-03-03"
+  },
+  {
+    "serialNo": 1256,
+    "carNo": "70자1256",
+    "carType": "저상 뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1302,
+    "carNo": "70자1302",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1321,
+    "carNo": "70자1321",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1335,
+    "carNo": "70자1335",
+    "carType": "저상 뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1246,
+    "carNo": "70자1246",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1247,
+    "carNo": "70자1247",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1260,
+    "carNo": "70자1260",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1218,
+    "carNo": "70자1218",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1236,
+    "carNo": "70자1236",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1242,
+    "carNo": "70자1242",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1244,
+    "carNo": "70자1244",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1261,
+    "carNo": "70자1261",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1264,
+    "carNo": "70자1264",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1266,
+    "carNo": "70자1266",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1267,
+    "carNo": "70자1267",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1268,
+    "carNo": "70자1268",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1269,
+    "carNo": "70자1269",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1271,
+    "carNo": "70자1271",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1272,
+    "carNo": "70자1272",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1274,
+    "carNo": "70자1274",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1276,
+    "carNo": "70자1276",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1277,
+    "carNo": "70자1277",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1281,
+    "carNo": "70자1281",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1284,
+    "carNo": "70자1284",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1285,
+    "carNo": "70자1285",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1286,
+    "carNo": "70자1286",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1287,
+    "carNo": "70자1287",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1311,
+    "carNo": "70자1311",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1312,
+    "carNo": "70자1312",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1313,
+    "carNo": "70자1313",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1314,
+    "carNo": "70자1314",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1315,
+    "carNo": "70자1315",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1316,
+    "carNo": "70자1316",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1318,
+    "carNo": "70자1318",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1204,
+    "carNo": "70자1204",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1205,
+    "carNo": "70자1205",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1206,
+    "carNo": "70자1206",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1207,
+    "carNo": "70자1207",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1208,
+    "carNo": "70자1208",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1209,
+    "carNo": "70자1209",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1210,
+    "carNo": "70자1210",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1211,
+    "carNo": "70자1211",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1212,
+    "carNo": "70자1212",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1213,
+    "carNo": "70자1213",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1217,
+    "carNo": "70자1217",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1219,
+    "carNo": "70자1219",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1222,
+    "carNo": "70자1222",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1224,
+    "carNo": "70자1224",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1225,
+    "carNo": "70자1225",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1226,
+    "carNo": "70자1226",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1228,
+    "carNo": "70자1228",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1229,
+    "carNo": "70자1229",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1231,
+    "carNo": "70자1231",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1232,
+    "carNo": "70자1232",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1233,
+    "carNo": "70자1233",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1235,
+    "carNo": "70자1235",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1238,
+    "carNo": "70자1238",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1239,
+    "carNo": "70자1239",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1241,
+    "carNo": "70자1241",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1243,
+    "carNo": "70자1243",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1245,
+    "carNo": "70자1245",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1248,
+    "carNo": "70자1248",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1250,
+    "carNo": "70자1250",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1252,
+    "carNo": "70자1252",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1258,
+    "carNo": "70자1258",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1262,
+    "carNo": "70자1262",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1265,
+    "carNo": "70자1265",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 앨리슨 오토",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1270,
+    "carNo": "70자1270",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1278,
+    "carNo": "70자1278",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1279,
+    "carNo": "70자1279",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1280,
+    "carNo": "70자1280",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1283,
+    "carNo": "70자1283",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1301,
+    "carNo": "70자1301",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1304,
+    "carNo": "70자1304",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1305,
+    "carNo": "70자1305",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1319,
+    "carNo": "70자1319",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1320,
+    "carNo": "70자1320",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1328,
+    "carNo": "70자1328",
+    "carType": "스마트 110 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1201,
+    "carNo": "70자1201",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1202,
+    "carNo": "70자1202",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1203,
+    "carNo": "70자1203",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1214,
+    "carNo": "70자1214",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1223,
+    "carNo": "70자1223",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1240,
+    "carNo": "70자1240",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1254,
+    "carNo": "70자1254",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1273,
+    "carNo": "70자1273",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1288,
+    "carNo": "70자1288",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1289,
+    "carNo": "70자1289",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1290,
+    "carNo": "70자1290",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1291,
+    "carNo": "70자1291",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1293,
+    "carNo": "70자1293",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1294,
+    "carNo": "70자1294",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1295,
+    "carNo": "70자1295",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1296,
+    "carNo": "70자1296",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1299,
+    "carNo": "70자1299",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1303,
+    "carNo": "70자1303",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1317,
+    "carNo": "70자1317",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1322,
+    "carNo": "70자1322",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1323,
+    "carNo": "70자1323",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1324,
+    "carNo": "70자1324",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1325,
+    "carNo": "70자1325",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1326,
+    "carNo": "70자1326",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1327,
+    "carNo": "70자1327",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1253,
+    "carNo": "70자1253",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1259,
+    "carNo": "70자1259",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1282,
+    "carNo": "70자1282",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1292,
+    "carNo": "70자1292",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1298,
+    "carNo": "70자1298",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1300,
+    "carNo": "70자1300",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1306,
+    "carNo": "70자1306",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1307,
+    "carNo": "70자1307",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1308,
+    "carNo": "70자1308",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1309,
+    "carNo": "70자1309",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1310,
+    "carNo": "70자1310",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1215,
+    "carNo": "70자1215",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1329,
+    "carNo": "70자1329",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1330,
+    "carNo": "70자1330",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1331,
+    "carNo": "70자1331",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1332,
+    "carNo": "70자1332",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1333,
+    "carNo": "70자1333",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1336,
+    "carNo": "70자1336",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1337,
+    "carNo": "70자1337",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1338,
+    "carNo": "70자1338",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1339,
+    "carNo": "70자1339",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1340,
+    "carNo": "70자1340",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1341,
+    "carNo": "70자1341",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1342,
+    "carNo": "70자1342",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1343,
+    "carNo": "70자1343",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1344,
+    "carNo": "70자1344",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1345,
+    "carNo": "70자1345",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1346,
+    "carNo": "70자1346",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1347,
+    "carNo": "70자1347",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1348,
+    "carNo": "70자1348",
+    "carType": "카운티 뉴 브리즈 EV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1349,
+    "carNo": "70자1349",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1350,
+    "carNo": "70자1350",
+    "carType": "쏠라티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1351,
+    "carNo": "70자1351",
+    "carType": "쏠라티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1216,
+    "carNo": "70자1216",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1221,
+    "carNo": "70자1221",
+    "carType": "그린시티 CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1234,
+    "carNo": "70자1234",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1237,
+    "carNo": "70자1237",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1251,
+    "carNo": "70자1251",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1255,
+    "carNo": "70자1255",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1257,
+    "carNo": "70자1257",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1334,
+    "carNo": "70자1334",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1227,
+    "carNo": "70자1227",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1230,
+    "carNo": "70자1230",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1249,
+    "carNo": "70자1249",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1220,
+    "carNo": "70자1220",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "보성여객",
+    "lastUpdate": "2024-07-07"
+  },
+  {
+    "serialNo": 1401,
+    "carNo": "70자1401",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1403,
+    "carNo": "70자1403",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1452,
+    "carNo": "70자1452",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1509,
+    "carNo": "70자1509",
+    "carType": "저상 뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1421,
+    "carNo": "70자1421",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1438,
+    "carNo": "70자1438",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1502,
+    "carNo": "70자1502",
+    "carType": "일렉시티Ⅱ FCEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1418,
+    "carNo": "70자1418",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1422,
+    "carNo": "70자1422",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1424,
+    "carNo": "70자1424",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1428,
+    "carNo": "70자1428",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1431,
+    "carNo": "70자1431",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1434,
+    "carNo": "70자1434",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1443,
+    "carNo": "70자1443",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1444,
+    "carNo": "70자1444",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1457,
+    "carNo": "70자1457",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1459,
+    "carNo": "70자1459",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1460,
+    "carNo": "70자1460",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1461,
+    "carNo": "70자1461",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1462,
+    "carNo": "70자1462",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1463,
+    "carNo": "70자1463",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1465,
+    "carNo": "70자1465",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1475,
+    "carNo": "70자1475",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1477,
+    "carNo": "70자1477",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1478,
+    "carNo": "70자1478",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1484,
+    "carNo": "70자1484",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1487,
+    "carNo": "70자1487",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1488,
+    "carNo": "70자1488",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1489,
+    "carNo": "70자1489",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1490,
+    "carNo": "70자1490",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1498,
+    "carNo": "70자1498",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1402,
+    "carNo": "70자1402",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1404,
+    "carNo": "70자1404",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1405,
+    "carNo": "70자1405",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1406,
+    "carNo": "70자1406",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1407,
+    "carNo": "70자1407",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1410,
+    "carNo": "70자1410",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1412,
+    "carNo": "70자1412",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1413,
+    "carNo": "70자1413",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1416,
+    "carNo": "70자1416",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1419,
+    "carNo": "70자1419",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1423,
+    "carNo": "70자1423",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1427,
+    "carNo": "70자1427",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1430,
+    "carNo": "70자1430",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1435,
+    "carNo": "70자1435",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1437,
+    "carNo": "70자1437",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1448,
+    "carNo": "70자1448",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1449,
+    "carNo": "70자1449",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1476,
+    "carNo": "70자1476",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1479,
+    "carNo": "70자1479",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1491,
+    "carNo": "70자1491",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1494,
+    "carNo": "70자1494",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1495,
+    "carNo": "70자1495",
+    "carType": "일렉시티 PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1499,
+    "carNo": "70자1499",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1500,
+    "carNo": "70자1500",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1501,
+    "carNo": "70자1501",
+    "carType": "뉴 E-화이버드 PEV",
+    "carManufact": "에디슨 모터스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1442,
+    "carNo": "70자1442",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1445,
+    "carNo": "70자1445",
+    "carType": "BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1446,
+    "carNo": "70자1446",
+    "carType": "BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1447,
+    "carNo": "70자1447",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1450,
+    "carNo": "70자1450",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1454,
+    "carNo": "70자1454",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1467,
+    "carNo": "70자1467",
+    "carType": "BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1468,
+    "carNo": "70자1468",
+    "carType": "BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1469,
+    "carNo": "70자1469",
+    "carType": "BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1470,
+    "carNo": "70자1470",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1471,
+    "carNo": "70자1471",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1472,
+    "carNo": "70자1472",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1473,
+    "carNo": "70자1473",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1474,
+    "carNo": "70자1474",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1480,
+    "carNo": "70자1480",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1486,
+    "carNo": "70자1486",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1492,
+    "carNo": "70자1492",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1493,
+    "carNo": "70자1493",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1496,
+    "carNo": "70자1496",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1497,
+    "carNo": "70자1497",
+    "carType": "그린시티 CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1408,
+    "carNo": "70자1408",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1411,
+    "carNo": "70자1411",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1420,
+    "carNo": "70자1420",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1441,
+    "carNo": "70자1441",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1481,
+    "carNo": "70자1481",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1482,
+    "carNo": "70자1482",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1483,
+    "carNo": "70자1483",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1433,
+    "carNo": "70자1433",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1510,
+    "carNo": "70자1510",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1511,
+    "carNo": "70자1511",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1513,
+    "carNo": "70자1513",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1514,
+    "carNo": "70자1514",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1515,
+    "carNo": "70자1515",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1516,
+    "carNo": "70자1516",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1517,
+    "carNo": "70자1517",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1503,
+    "carNo": "70자1503",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1504,
+    "carNo": "70자1504",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1505,
+    "carNo": "70자1505",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1506,
+    "carNo": "70자1506",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1507,
+    "carNo": "70자1507",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1508,
+    "carNo": "70자1508",
+    "carType": "레스타 디젤",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1518,
+    "carNo": "70자1518",
+    "carType": "BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1519,
+    "carNo": "70자1519",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1520,
+    "carNo": "70자1520",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1521,
+    "carNo": "70자1521",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1522,
+    "carNo": "70자1522",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1523,
+    "carNo": "70자1523",
+    "carType": "카운티 뉴 브리즈 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1524,
+    "carNo": "70자1524",
+    "carType": "쏠라티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1414,
+    "carNo": "70자1414",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1415,
+    "carNo": "70자1415",
+    "carType": "뉴슈퍼에어로시티 F/L CNG 개선형",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1425,
+    "carNo": "70자1425",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1426,
+    "carNo": "70자1426",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1429,
+    "carNo": "70자1429",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1436,
+    "carNo": "70자1436",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1439,
+    "carNo": "70자1439",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1451,
+    "carNo": "70자1451",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1464,
+    "carNo": "70자1464",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1466,
+    "carNo": "70자1466",
+    "carType": "NEW BS090 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1485,
+    "carNo": "70자1485",
+    "carType": "뉴카운티 디젤",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1453,
+    "carNo": "70자1453",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1455,
+    "carNo": "70자1455",
+    "carType": "일렉시티Ⅱ PEV",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1409,
+    "carNo": "70자1409",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1417,
+    "carNo": "70자1417",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1432,
+    "carNo": "70자1432",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1440,
+    "carNo": "70자1440",
+    "carType": "NEW BS106 NGV",
+    "carManufact": "자일대우버스",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  },
+  {
+    "serialNo": 1512,
+    "carNo": "70자1512",
+    "carType": "뉴슈퍼에어로시티 F/L CNG",
+    "carManufact": "현대자동차",
+    "carOperator": "삼안여객",
+    "lastUpdate": "2024-07-01"
+  }
+]
