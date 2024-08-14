@@ -1,0 +1,1802 @@
+[
+  {
+    "max40": 4,
+    "max43": 4.3,
+    "max45": 4.5,
+    "convertedScore": 100
+  },
+  {
+    "max40": 3.99,
+    "max43": 4.29,
+    "max45": 4.49,
+    "convertedScore": 99.9
+  },
+  {
+    "max40": 3.98,
+    "max43": 4.28,
+    "max45": 4.48,
+    "convertedScore": 99.8
+  },
+  {
+    "max40": 3.97,
+    "max43": 4.27,
+    "max45": 4.47,
+    "convertedScore": 99.7
+  },
+  {
+    "max40": 3.96,
+    "max43": 4.26,
+    "max45": 4.46,
+    "convertedScore": 99.6
+  },
+  {
+    "max40": 3.95,
+    "max43": 4.25,
+    "max45": 4.45,
+    "convertedScore": 99.5
+  },
+  {
+    "max40": 3.94,
+    "max43": 4.24,
+    "max45": 4.44,
+    "convertedScore": 99.4
+  },
+  {
+    "max40": 3.93,
+    "max43": 4.23,
+    "max45": 4.43,
+    "convertedScore": 99.3
+  },
+  {
+    "max40": 3.92,
+    "max43": 4.22,
+    "max45": 4.42,
+    "convertedScore": 99.2
+  },
+  {
+    "max40": 3.91,
+    "max43": 4.21,
+    "max45": 4.41,
+    "convertedScore": 99.1
+  },
+  {
+    "max40": 3.9,
+    "max43": 4.2,
+    "max45": 4.4,
+    "convertedScore": 99
+  },
+  {
+    "max40": 3.89,
+    "max43": 4.19,
+    "max45": 4.39,
+    "convertedScore": 98.9
+  },
+  {
+    "max40": 3.88,
+    "max43": 4.18,
+    "max45": 4.38,
+    "convertedScore": 98.8
+  },
+  {
+    "max40": 3.87,
+    "max43": 4.17,
+    "max45": 4.37,
+    "convertedScore": 98.7
+  },
+  {
+    "max40": 3.86,
+    "max43": 4.16,
+    "max45": 4.36,
+    "convertedScore": 98.6
+  },
+  {
+    "max40": 3.85,
+    "max43": 4.15,
+    "max45": 4.35,
+    "convertedScore": 98.5
+  },
+  {
+    "max40": 3.84,
+    "max43": 4.14,
+    "max45": 4.34,
+    "convertedScore": 98.4
+  },
+  {
+    "max40": 3.83,
+    "max43": 4.13,
+    "max45": 4.33,
+    "convertedScore": 98.3
+  },
+  {
+    "max40": 3.82,
+    "max43": 4.12,
+    "max45": 4.32,
+    "convertedScore": 98.2
+  },
+  {
+    "max40": 3.81,
+    "max43": 4.11,
+    "max45": 4.31,
+    "convertedScore": 98.1
+  },
+  {
+    "max40": 3.8,
+    "max43": 4.1,
+    "max45": 4.3,
+    "convertedScore": 98
+  },
+  {
+    "max40": 3.79,
+    "max43": 4.09,
+    "max45": 4.29,
+    "convertedScore": 97.9
+  },
+  {
+    "max40": 3.78,
+    "max43": 4.08,
+    "max45": 4.28,
+    "convertedScore": 97.8
+  },
+  {
+    "max40": 3.77,
+    "max43": 4.07,
+    "max45": 4.27,
+    "convertedScore": 97.7
+  },
+  {
+    "max40": 3.76,
+    "max43": 4.06,
+    "max45": 4.26,
+    "convertedScore": 97.6
+  },
+  {
+    "max40": 3.75,
+    "max43": 4.05,
+    "max45": 4.25,
+    "convertedScore": 97.5
+  },
+  {
+    "max40": 3.74,
+    "max43": 4.04,
+    "max45": 4.24,
+    "convertedScore": 97.4
+  },
+  {
+    "max40": 3.73,
+    "max43": 4.03,
+    "max45": 4.23,
+    "convertedScore": 97.3
+  },
+  {
+    "max40": 3.72,
+    "max43": 4.02,
+    "max45": 4.22,
+    "convertedScore": 97.2
+  },
+  {
+    "max40": 3.71,
+    "max43": 4.01,
+    "max45": 4.21,
+    "convertedScore": 97.1
+  },
+  {
+    "max40": 3.7,
+    "max43": 4,
+    "max45": 4.2,
+    "convertedScore": 97
+  },
+  {
+    "max40": 3.69,
+    "max43": 3.99,
+    "max45": 4.19,
+    "convertedScore": 96.9
+  },
+  {
+    "max40": 3.68,
+    "max43": 3.98,
+    "max45": 4.18,
+    "convertedScore": 96.8
+  },
+  {
+    "max40": 3.67,
+    "max43": 3.97,
+    "max45": 4.17,
+    "convertedScore": 96.7
+  },
+  {
+    "max40": 3.65,
+    "max43": 3.95,
+    "max45": 4.15,
+    "convertedScore": 96.5
+  },
+  {
+    "max40": 3.64,
+    "max43": 3.94,
+    "max45": 4.14,
+    "convertedScore": 96.4
+  },
+  {
+    "max40": 3.63,
+    "max43": 3.93,
+    "max45": 4.13,
+    "convertedScore": 96.3
+  },
+  {
+    "max40": 3.62,
+    "max43": 3.92,
+    "max45": 4.12,
+    "convertedScore": 96.2
+  },
+  {
+    "max40": 3.61,
+    "max43": 3.91,
+    "max45": 4.11,
+    "convertedScore": 96.1
+  },
+  {
+    "max40": 3.6,
+    "max43": 3.9,
+    "max45": 4.1,
+    "convertedScore": 96
+  },
+  {
+    "max40": 3.59,
+    "max43": 3.89,
+    "max45": 4.09,
+    "convertedScore": 95.9
+  },
+  {
+    "max40": 3.58,
+    "max43": 3.88,
+    "max45": 4.08,
+    "convertedScore": 95.8
+  },
+  {
+    "max40": 3.57,
+    "max43": 3.87,
+    "max45": 4.07,
+    "convertedScore": 95.7
+  },
+  {
+    "max40": 3.56,
+    "max43": 3.86,
+    "max45": 4.06,
+    "convertedScore": 95.6
+  },
+  {
+    "max40": 3.55,
+    "max43": 3.85,
+    "max45": 4.05,
+    "convertedScore": 95.5
+  },
+  {
+    "max40": 3.54,
+    "max43": 3.84,
+    "max45": 4.04,
+    "convertedScore": 95.4
+  },
+  {
+    "max40": 3.53,
+    "max43": 3.83,
+    "max45": 4.03,
+    "convertedScore": 95.3
+  },
+  {
+    "max40": 3.52,
+    "max43": 3.82,
+    "max45": 4.02,
+    "convertedScore": 95.2
+  },
+  {
+    "max40": 3.51,
+    "max43": 3.81,
+    "max45": 4.01,
+    "convertedScore": 95.1
+  },
+  {
+    "max40": 3.5,
+    "max43": 3.8,
+    "max45": 4,
+    "convertedScore": 95
+  },
+  {
+    "max40": 3.49,
+    "max43": 3.79,
+    "max45": 3.99,
+    "convertedScore": 94.9
+  },
+  {
+    "max40": 3.48,
+    "max43": 3.78,
+    "max45": 3.98,
+    "convertedScore": 94.8
+  },
+  {
+    "max40": 3.47,
+    "max43": 3.77,
+    "max45": 3.97,
+    "convertedScore": 94.7
+  },
+  {
+    "max40": 3.46,
+    "max43": 3.76,
+    "max45": 3.96,
+    "convertedScore": 94.6
+  },
+  {
+    "max40": 3.45,
+    "max43": 3.75,
+    "max45": 3.95,
+    "convertedScore": 94.5
+  },
+  {
+    "max40": 3.44,
+    "max43": 3.74,
+    "max45": 3.94,
+    "convertedScore": 94.4
+  },
+  {
+    "max40": 3.43,
+    "max43": 3.73,
+    "max45": 3.93,
+    "convertedScore": 94.3
+  },
+  {
+    "max40": 3.42,
+    "max43": 3.72,
+    "max45": 3.92,
+    "convertedScore": 94.2
+  },
+  {
+    "max40": 3.41,
+    "max43": 3.71,
+    "max45": 3.91,
+    "convertedScore": 94.1
+  },
+  {
+    "max40": 3.4,
+    "max43": 3.7,
+    "max45": 3.9,
+    "convertedScore": 94
+  },
+  {
+    "max40": 3.39,
+    "max43": 3.69,
+    "max45": 3.89,
+    "convertedScore": 93.9
+  },
+  {
+    "max40": 3.38,
+    "max43": 3.68,
+    "max45": 3.88,
+    "convertedScore": 93.8
+  },
+  {
+    "max40": 3.37,
+    "max43": 3.67,
+    "max45": 3.87,
+    "convertedScore": 93.7
+  },
+  {
+    "max40": 3.36,
+    "max43": 3.66,
+    "max45": 3.86,
+    "convertedScore": 93.6
+  },
+  {
+    "max40": 3.35,
+    "max43": 3.65,
+    "max45": 3.85,
+    "convertedScore": 93.5
+  },
+  {
+    "max40": 3.34,
+    "max43": 3.64,
+    "max45": 3.84,
+    "convertedScore": 93.4
+  },
+  {
+    "max40": 3.33,
+    "max43": 3.63,
+    "max45": 3.83,
+    "convertedScore": 93.3
+  },
+  {
+    "max40": 3.32,
+    "max43": 3.62,
+    "max45": 3.82,
+    "convertedScore": 93.2
+  },
+  {
+    "max40": 3.31,
+    "max43": 3.61,
+    "max45": 3.81,
+    "convertedScore": 93.1
+  },
+  {
+    "max40": 3.3,
+    "max43": 3.6,
+    "max45": 3.8,
+    "convertedScore": 93
+  },
+  {
+    "max40": 3.29,
+    "max43": 3.59,
+    "max45": 3.79,
+    "convertedScore": 92.9
+  },
+  {
+    "max40": 3.28,
+    "max43": 3.58,
+    "max45": 3.78,
+    "convertedScore": 92.8
+  },
+  {
+    "max40": 3.27,
+    "max43": 3.57,
+    "max45": 3.77,
+    "convertedScore": 92.7
+  },
+  {
+    "max40": 3.26,
+    "max43": 3.56,
+    "max45": 3.76,
+    "convertedScore": 92.6
+  },
+  {
+    "max40": 3.25,
+    "max43": 3.55,
+    "max45": 3.75,
+    "convertedScore": 92.5
+  },
+  {
+    "max40": 3.24,
+    "max43": 3.54,
+    "max45": 3.74,
+    "convertedScore": 92.4
+  },
+  {
+    "max40": 3.23,
+    "max43": 3.53,
+    "max45": 3.73,
+    "convertedScore": 92.3
+  },
+  {
+    "max40": 3.22,
+    "max43": 3.52,
+    "max45": 3.72,
+    "convertedScore": 92.2
+  },
+  {
+    "max40": 3.21,
+    "max43": 3.51,
+    "max45": 3.71,
+    "convertedScore": 92.1
+  },
+  {
+    "max40": 3.2,
+    "max43": 3.5,
+    "max45": 3.7,
+    "convertedScore": 92
+  },
+  {
+    "max40": 3.19,
+    "max43": 3.49,
+    "max45": 3.69,
+    "convertedScore": 91.9
+  },
+  {
+    "max40": 3.18,
+    "max43": 3.48,
+    "max45": 3.68,
+    "convertedScore": 91.8
+  },
+  {
+    "max40": 3.17,
+    "max43": 3.47,
+    "max45": 3.67,
+    "convertedScore": 91.7
+  },
+  {
+    "max40": 3.16,
+    "max43": 3.46,
+    "max45": 3.66,
+    "convertedScore": 91.6
+  },
+  {
+    "max40": 3.15,
+    "max43": 3.45,
+    "max45": 3.65,
+    "convertedScore": 91.5
+  },
+  {
+    "max40": 3.14,
+    "max43": 3.44,
+    "max45": 3.64,
+    "convertedScore": 91.4
+  },
+  {
+    "max40": 3.13,
+    "max43": 3.43,
+    "max45": 3.63,
+    "convertedScore": 91.3
+  },
+  {
+    "max40": 3.12,
+    "max43": 3.42,
+    "max45": 3.62,
+    "convertedScore": 91.2
+  },
+  {
+    "max40": 3.11,
+    "max43": 3.41,
+    "max45": 3.61,
+    "convertedScore": 91.1
+  },
+  {
+    "max40": 3.1,
+    "max43": 3.4,
+    "max45": 3.6,
+    "convertedScore": 91
+  },
+  {
+    "max40": 3.09,
+    "max43": 3.39,
+    "max45": 3.59,
+    "convertedScore": 90.9
+  },
+  {
+    "max40": 3.08,
+    "max43": 3.38,
+    "max45": 3.58,
+    "convertedScore": 90.8
+  },
+  {
+    "max40": 3.07,
+    "max43": 3.37,
+    "max45": 3.57,
+    "convertedScore": 90.7
+  },
+  {
+    "max40": 3.06,
+    "max43": 3.36,
+    "max45": 3.56,
+    "convertedScore": 90.6
+  },
+  {
+    "max40": 3.05,
+    "max43": 3.35,
+    "max45": 3.55,
+    "convertedScore": 90.5
+  },
+  {
+    "max40": 3.04,
+    "max43": 3.34,
+    "max45": 3.54,
+    "convertedScore": 90.4
+  },
+  {
+    "max40": 3.03,
+    "max43": 3.33,
+    "max45": 3.53,
+    "convertedScore": 90.3
+  },
+  {
+    "max40": 3.02,
+    "max43": 3.32,
+    "max45": 3.52,
+    "convertedScore": 90.2
+  },
+  {
+    "max40": 3.01,
+    "max43": 3.31,
+    "max45": 3.51,
+    "convertedScore": 90.1
+  },
+  {
+    "max40": 3,
+    "max43": 3.3,
+    "max45": 3.5,
+    "convertedScore": 90
+  },
+  {
+    "max40": 2.99,
+    "max43": 3.29,
+    "max45": 3.49,
+    "convertedScore": 89.9
+  },
+  {
+    "max40": 2.98,
+    "max43": 3.28,
+    "max45": 3.48,
+    "convertedScore": 89.8
+  },
+  {
+    "max40": 2.97,
+    "max43": 3.27,
+    "max45": 3.47,
+    "convertedScore": 89.7
+  },
+  {
+    "max40": 2.96,
+    "max43": 3.26,
+    "max45": 3.46,
+    "convertedScore": 89.6
+  },
+  {
+    "max40": 2.95,
+    "max43": 3.25,
+    "max45": 3.45,
+    "convertedScore": 89.5
+  },
+  {
+    "max40": 2.94,
+    "max43": 3.24,
+    "max45": 3.44,
+    "convertedScore": 89.4
+  },
+  {
+    "max40": 2.93,
+    "max43": 3.23,
+    "max45": 3.43,
+    "convertedScore": 89.3
+  },
+  {
+    "max40": 2.92,
+    "max43": 3.22,
+    "max45": 3.42,
+    "convertedScore": 89.2
+  },
+  {
+    "max40": 2.91,
+    "max43": 3.21,
+    "max45": 3.41,
+    "convertedScore": 89.1
+  },
+  {
+    "max40": 2.9,
+    "max43": 3.2,
+    "max45": 3.4,
+    "convertedScore": 89
+  },
+  {
+    "max40": 2.89,
+    "max43": 3.19,
+    "max45": 3.39,
+    "convertedScore": 88.9
+  },
+  {
+    "max40": 2.88,
+    "max43": 3.18,
+    "max45": 3.38,
+    "convertedScore": 88.8
+  },
+  {
+    "max40": 2.87,
+    "max43": 3.17,
+    "max45": 3.37,
+    "convertedScore": 88.7
+  },
+  {
+    "max40": 2.86,
+    "max43": 3.16,
+    "max45": 3.36,
+    "convertedScore": 88.6
+  },
+  {
+    "max40": 2.85,
+    "max43": 3.15,
+    "max45": 3.35,
+    "convertedScore": 88.5
+  },
+  {
+    "max40": 2.84,
+    "max43": 3.14,
+    "max45": 3.34,
+    "convertedScore": 88.4
+  },
+  {
+    "max40": 2.83,
+    "max43": 3.13,
+    "max45": 3.33,
+    "convertedScore": 88.3
+  },
+  {
+    "max40": 3.12,
+    "max43": 3.17,
+    "max45": 3.32,
+    "convertedScore": 88.2
+  },
+  {
+    "max40": 2.81,
+    "max43": 3.11,
+    "max45": 3.31,
+    "convertedScore": 88.1
+  },
+  {
+    "max40": 2.8,
+    "max43": 3.1,
+    "max45": 3.3,
+    "convertedScore": 88
+  },
+  {
+    "max40": 2.79,
+    "max43": 3.09,
+    "max45": 3.29,
+    "convertedScore": 87.9
+  },
+  {
+    "max40": 2.78,
+    "max43": 3.08,
+    "max45": 3.28,
+    "convertedScore": 87.8
+  },
+  {
+    "max40": 2.77,
+    "max43": 3.07,
+    "max45": 3.27,
+    "convertedScore": 87.7
+  },
+  {
+    "max40": 2.76,
+    "max43": 3.06,
+    "max45": 3.26,
+    "convertedScore": 87.6
+  },
+  {
+    "max40": 2.75,
+    "max43": 3.05,
+    "max45": 3.25,
+    "convertedScore": 87.5
+  },
+  {
+    "max40": 2.74,
+    "max43": 3.04,
+    "max45": 3.24,
+    "convertedScore": 87.4
+  },
+  {
+    "max40": 2.73,
+    "max43": 3.03,
+    "max45": 3.23,
+    "convertedScore": 87.3
+  },
+  {
+    "max40": 2.72,
+    "max43": 3.02,
+    "max45": 3.22,
+    "convertedScore": 87.2
+  },
+  {
+    "max40": 2.71,
+    "max43": 3.01,
+    "max45": 3.21,
+    "convertedScore": 87.1
+  },
+  {
+    "max40": 2.7,
+    "max43": 3,
+    "max45": 3.2,
+    "convertedScore": 87
+  },
+  {
+    "max40": 2.69,
+    "max43": 2.99,
+    "max45": 3.19,
+    "convertedScore": 86.9
+  },
+  {
+    "max40": 2.68,
+    "max43": 2.98,
+    "max45": 3.18,
+    "convertedScore": 86.8
+  },
+  {
+    "max40": 2.67,
+    "max43": 2.97,
+    "max45": 3.17,
+    "convertedScore": 86.7
+  },
+  {
+    "max40": 2.66,
+    "max43": 2.96,
+    "max45": 3.16,
+    "convertedScore": 86.6
+  },
+  {
+    "max40": 2.65,
+    "max43": 2.95,
+    "max45": 3.15,
+    "convertedScore": 86.5
+  },
+  {
+    "max40": 2.64,
+    "max43": 2.94,
+    "max45": 3.14,
+    "convertedScore": 86.4
+  },
+  {
+    "max40": 2.63,
+    "max43": 2.93,
+    "max45": 3.13,
+    "convertedScore": 86.3
+  },
+  {
+    "max40": 2.62,
+    "max43": 2.92,
+    "max45": 3.12,
+    "convertedScore": 86.2
+  },
+  {
+    "max40": 2.61,
+    "max43": 2.91,
+    "max45": 3.11,
+    "convertedScore": 86.1
+  },
+  {
+    "max40": 2.6,
+    "max43": 2.9,
+    "max45": 3.1,
+    "convertedScore": 86
+  },
+  {
+    "max40": 2.59,
+    "max43": 2.89,
+    "max45": 3.09,
+    "convertedScore": 85.9
+  },
+  {
+    "max40": 2.58,
+    "max43": 2.88,
+    "max45": 3.08,
+    "convertedScore": 85.8
+  },
+  {
+    "max40": 2.57,
+    "max43": 2.87,
+    "max45": 3.07,
+    "convertedScore": 85.7
+  },
+  {
+    "max40": 2.56,
+    "max43": 2.86,
+    "max45": 3.06,
+    "convertedScore": 85.6
+  },
+  {
+    "max40": 2.55,
+    "max43": 2.85,
+    "max45": 3.05,
+    "convertedScore": 85.5
+  },
+  {
+    "max40": 2.54,
+    "max43": 2.84,
+    "max45": 3.04,
+    "convertedScore": 85.4
+  },
+  {
+    "max40": 2.53,
+    "max43": 2.83,
+    "max45": 3.03,
+    "convertedScore": 85.3
+  },
+  {
+    "max40": 2.52,
+    "max43": 2.82,
+    "max45": 3.02,
+    "convertedScore": 85.2
+  },
+  {
+    "max40": 2.51,
+    "max43": 2.81,
+    "max45": 3.01,
+    "convertedScore": 85.1
+  },
+  {
+    "max40": 2.5,
+    "max43": 2.8,
+    "max45": 3,
+    "convertedScore": 85
+  },
+  {
+    "max40": 2.49,
+    "max43": 2.79,
+    "max45": 2.99,
+    "convertedScore": 84.9
+  },
+  {
+    "max40": 2.48,
+    "max43": 2.78,
+    "max45": 2.98,
+    "convertedScore": 84.8
+  },
+  {
+    "max40": 2.47,
+    "max43": 2.77,
+    "max45": 2.97,
+    "convertedScore": 84.7
+  },
+  {
+    "max40": 2.46,
+    "max43": 2.76,
+    "max45": 2.96,
+    "convertedScore": 84.6
+  },
+  {
+    "max40": 2.45,
+    "max43": 2.75,
+    "max45": 2.95,
+    "convertedScore": 84.5
+  },
+  {
+    "max40": 2.44,
+    "max43": 2.74,
+    "max45": 2.94,
+    "convertedScore": 84.4
+  },
+  {
+    "max40": 2.43,
+    "max43": 2.73,
+    "max45": 2.93,
+    "convertedScore": 84.3
+  },
+  {
+    "max40": 2.42,
+    "max43": 2.72,
+    "max45": 2.92,
+    "convertedScore": 84.2
+  },
+  {
+    "max40": 2.41,
+    "max43": 2.71,
+    "max45": 2.91,
+    "convertedScore": 84.1
+  },
+  {
+    "max40": 2.4,
+    "max43": 2.7,
+    "max45": 2.9,
+    "convertedScore": 84
+  },
+  {
+    "max40": 2.39,
+    "max43": 2.69,
+    "max45": 2.89,
+    "convertedScore": 83.9
+  },
+  {
+    "max40": 2.38,
+    "max43": 2.68,
+    "max45": 2.88,
+    "convertedScore": 83.8
+  },
+  {
+    "max40": 2.37,
+    "max43": 2.67,
+    "max45": 2.87,
+    "convertedScore": 83.7
+  },
+  {
+    "max40": 2.36,
+    "max43": 2.66,
+    "max45": 2.86,
+    "convertedScore": 83.6
+  },
+  {
+    "max40": 2.35,
+    "max43": 2.65,
+    "max45": 2.85,
+    "convertedScore": 83.5
+  },
+  {
+    "max40": 2.34,
+    "max43": 2.64,
+    "max45": 2.84,
+    "convertedScore": 83.4
+  },
+  {
+    "max40": 2.33,
+    "max43": 2.63,
+    "max45": 2.83,
+    "convertedScore": 83.3
+  },
+  {
+    "max40": 2.32,
+    "max43": 2.62,
+    "max45": 2.82,
+    "convertedScore": 83.2
+  },
+  {
+    "max40": 2.31,
+    "max43": 2.61,
+    "max45": 2.81,
+    "convertedScore": 83.1
+  },
+  {
+    "max40": 2.3,
+    "max43": 2.6,
+    "max45": 2.8,
+    "convertedScore": 83
+  },
+  {
+    "max40": 2.29,
+    "max43": 2.59,
+    "max45": 2.79,
+    "convertedScore": 82.9
+  },
+  {
+    "max40": 2.28,
+    "max43": 2.58,
+    "max45": 2.78,
+    "convertedScore": 82.8
+  },
+  {
+    "max40": 2.27,
+    "max43": 2.57,
+    "max45": 2.77,
+    "convertedScore": 82.7
+  },
+  {
+    "max40": 2.26,
+    "max43": 2.56,
+    "max45": 2.76,
+    "convertedScore": 82.6
+  },
+  {
+    "max40": 2.25,
+    "max43": 2.55,
+    "max45": 2.75,
+    "convertedScore": 82.5
+  },
+  {
+    "max40": 2.24,
+    "max43": 2.54,
+    "max45": 2.74,
+    "convertedScore": 82.4
+  },
+  {
+    "max40": 2.23,
+    "max43": 2.53,
+    "max45": 2.73,
+    "convertedScore": 82.3
+  },
+  {
+    "max40": 2.22,
+    "max43": 2.52,
+    "max45": 2.72,
+    "convertedScore": 82.2
+  },
+  {
+    "max40": 2.21,
+    "max43": 2.51,
+    "max45": 2.71,
+    "convertedScore": 82.1
+  },
+  {
+    "max40": 2.2,
+    "max43": 2.5,
+    "max45": 2.7,
+    "convertedScore": 82
+  },
+  {
+    "max40": 2.19,
+    "max43": 2.49,
+    "max45": 2.69,
+    "convertedScore": 81.9
+  },
+  {
+    "max40": 2.18,
+    "max43": 2.48,
+    "max45": 2.68,
+    "convertedScore": 81.8
+  },
+  {
+    "max40": 2.17,
+    "max43": 2.47,
+    "max45": 2.67,
+    "convertedScore": 81.7
+  },
+  {
+    "max40": 2.16,
+    "max43": 2.46,
+    "max45": 2.66,
+    "convertedScore": 81.6
+  },
+  {
+    "max40": 2.15,
+    "max43": 2.45,
+    "max45": 2.65,
+    "convertedScore": 81.5
+  },
+  {
+    "max40": 2.14,
+    "max43": 2.44,
+    "max45": 2.64,
+    "convertedScore": 81.4
+  },
+  {
+    "max40": 2.13,
+    "max43": 2.43,
+    "max45": 2.63,
+    "convertedScore": 81.3
+  },
+  {
+    "max40": 2.12,
+    "max43": 2.42,
+    "max45": 2.62,
+    "convertedScore": 81.2
+  },
+  {
+    "max40": 2.11,
+    "max43": 2.41,
+    "max45": 2.61,
+    "convertedScore": 81.1
+  },
+  {
+    "max40": 2.1,
+    "max43": 2.4,
+    "max45": 2.6,
+    "convertedScore": 81
+  },
+  {
+    "max40": 2.09,
+    "max43": 2.09,
+    "max45": 2.59,
+    "convertedScore": 80.9
+  },
+  {
+    "max40": 2.08,
+    "max43": 2.38,
+    "max45": 2.58,
+    "convertedScore": 80.8
+  },
+  {
+    "max40": 2.07,
+    "max43": 2.37,
+    "max45": 2.57,
+    "convertedScore": 80.7
+  },
+  {
+    "max40": 2.06,
+    "max43": 2.36,
+    "max45": 2.56,
+    "convertedScore": 80.6
+  },
+  {
+    "max40": 2.05,
+    "max43": 2.35,
+    "max45": 2.55,
+    "convertedScore": 80.5
+  },
+  {
+    "max40": 2.04,
+    "max43": 2.34,
+    "max45": 2.54,
+    "convertedScore": 80.4
+  },
+  {
+    "max40": 2.03,
+    "max43": 2.33,
+    "max45": 2.53,
+    "convertedScore": 80.3
+  },
+  {
+    "max40": 2.02,
+    "max43": 2.32,
+    "max45": 2.52,
+    "convertedScore": 80.2
+  },
+  {
+    "max40": 2.01,
+    "max43": 2.31,
+    "max45": 2.51,
+    "convertedScore": 80.1
+  },
+  {
+    "max40": 2,
+    "max43": 2.3,
+    "max45": 2.5,
+    "convertedScore": 80
+  },
+  {
+    "max40": 1.99,
+    "max43": 2.29,
+    "max45": 2.49,
+    "convertedScore": 79.9
+  },
+  {
+    "max40": 1.98,
+    "max43": 2.28,
+    "max45": 2.48,
+    "convertedScore": 79.8
+  },
+  {
+    "max40": 1.97,
+    "max43": 2.27,
+    "max45": 2.47,
+    "convertedScore": 79.7
+  },
+  {
+    "max40": 1.96,
+    "max43": 2.26,
+    "max45": 2.46,
+    "convertedScore": 79.6
+  },
+  {
+    "max40": 1.95,
+    "max43": 2.25,
+    "max45": 2.45,
+    "convertedScore": 79.5
+  },
+  {
+    "max40": 1.94,
+    "max43": 2.24,
+    "max45": 2.44,
+    "convertedScore": 79.4
+  },
+  {
+    "max40": 1.93,
+    "max43": 2.23,
+    "max45": 2.43,
+    "convertedScore": 79.3
+  },
+  {
+    "max40": 1.92,
+    "max43": 2.22,
+    "max45": 2.42,
+    "convertedScore": 79.2
+  },
+  {
+    "max40": 1.91,
+    "max43": 2.21,
+    "max45": 2.41,
+    "convertedScore": 79.1
+  },
+  {
+    "max40": 1.9,
+    "max43": 2.2,
+    "max45": 2.4,
+    "convertedScore": 79
+  },
+  {
+    "max40": 1.89,
+    "max43": 2.19,
+    "max45": 2.39,
+    "convertedScore": 78.9
+  },
+  {
+    "max40": 1.88,
+    "max43": 2.18,
+    "max45": 2.38,
+    "convertedScore": 78.8
+  },
+  {
+    "max40": 1.87,
+    "max43": 2.17,
+    "max45": 2.37,
+    "convertedScore": 78.7
+  },
+  {
+    "max40": 1.86,
+    "max43": 2.16,
+    "max45": 2.36,
+    "convertedScore": 78.6
+  },
+  {
+    "max40": 1.85,
+    "max43": 2.15,
+    "max45": 2.35,
+    "convertedScore": 78.5
+  },
+  {
+    "max40": 2.14,
+    "max43": 2.19,
+    "max45": 2.34,
+    "convertedScore": 78.4
+  },
+  {
+    "max40": 1.83,
+    "max43": 2.13,
+    "max45": 2.33,
+    "convertedScore": 78.3
+  },
+  {
+    "max40": 1.82,
+    "max43": 2.12,
+    "max45": 2.32,
+    "convertedScore": 78.2
+  },
+  {
+    "max40": 1.81,
+    "max43": 2.11,
+    "max45": 2.31,
+    "convertedScore": 78.1
+  },
+  {
+    "max40": 1.8,
+    "max43": 2.1,
+    "max45": 2.3,
+    "convertedScore": 78
+  },
+  {
+    "max40": 1.79,
+    "max43": 2.09,
+    "max45": 2.29,
+    "convertedScore": 77.9
+  },
+  {
+    "max40": 1.78,
+    "max43": 2.08,
+    "max45": 2.28,
+    "convertedScore": 77.8
+  },
+  {
+    "max40": 1.77,
+    "max43": 2.07,
+    "max45": 2.27,
+    "convertedScore": 77.7
+  },
+  {
+    "max40": 1.76,
+    "max43": 2.06,
+    "max45": 2.26,
+    "convertedScore": 77.6
+  },
+  {
+    "max40": 1.75,
+    "max43": 2.05,
+    "max45": 2.25,
+    "convertedScore": 77.5
+  },
+  {
+    "max40": 1.74,
+    "max43": 2.04,
+    "max45": 2.24,
+    "convertedScore": 77.4
+  },
+  {
+    "max40": 1.73,
+    "max43": 2.03,
+    "max45": 2.23,
+    "convertedScore": 77.3
+  },
+  {
+    "max40": 1.72,
+    "max43": 2.02,
+    "max45": 2.22,
+    "convertedScore": 77.2
+  },
+  {
+    "max40": 1.71,
+    "max43": 2.01,
+    "max45": 2.21,
+    "convertedScore": 77.1
+  },
+  {
+    "max40": 1.7,
+    "max43": 2,
+    "max45": 2.2,
+    "convertedScore": 77
+  },
+  {
+    "max40": 1.69,
+    "max43": 1.99,
+    "max45": 2.19,
+    "convertedScore": 76.9
+  },
+  {
+    "max40": 1.68,
+    "max43": 1.98,
+    "max45": 2.18,
+    "convertedScore": 76.8
+  },
+  {
+    "max40": 1.67,
+    "max43": 1.97,
+    "max45": 2.17,
+    "convertedScore": 76.7
+  },
+  {
+    "max40": 1.66,
+    "max43": 1.96,
+    "max45": 2.16,
+    "convertedScore": 76.6
+  },
+  {
+    "max40": 1.65,
+    "max43": 1.95,
+    "max45": 2.15,
+    "convertedScore": 76.5
+  },
+  {
+    "max40": 1.64,
+    "max43": 1.94,
+    "max45": 2.14,
+    "convertedScore": 76.4
+  },
+  {
+    "max40": 1.63,
+    "max43": 1.93,
+    "max45": 2.13,
+    "convertedScore": 76.3
+  },
+  {
+    "max40": 1.62,
+    "max43": 1.92,
+    "max45": 2.12,
+    "convertedScore": 76.2
+  },
+  {
+    "max40": 1.61,
+    "max43": 1.91,
+    "max45": 2.11,
+    "convertedScore": 76.1
+  },
+  {
+    "max40": 1.6,
+    "max43": 1.9,
+    "max45": 2.1,
+    "convertedScore": 76
+  },
+  {
+    "max40": 1.59,
+    "max43": 1.89,
+    "max45": 2.09,
+    "convertedScore": 75.9
+  },
+  {
+    "max40": 1.58,
+    "max43": 1.88,
+    "max45": 2.08,
+    "convertedScore": 75.8
+  },
+  {
+    "max40": 1.57,
+    "max43": 1.87,
+    "max45": 2.07,
+    "convertedScore": 75.7
+  },
+  {
+    "max40": 1.56,
+    "max43": 1.86,
+    "max45": 2.06,
+    "convertedScore": 75.6
+  },
+  {
+    "max40": 1.55,
+    "max43": 1.85,
+    "max45": 2.05,
+    "convertedScore": 75.5
+  },
+  {
+    "max40": 1.54,
+    "max43": 1.84,
+    "max45": 2.04,
+    "convertedScore": 75.4
+  },
+  {
+    "max40": 1.53,
+    "max43": 1.83,
+    "max45": 2.03,
+    "convertedScore": 75.3
+  },
+  {
+    "max40": 1.52,
+    "max43": 1.82,
+    "max45": 2.02,
+    "convertedScore": 75.2
+  },
+  {
+    "max40": 1.51,
+    "max43": 1.81,
+    "max45": 2.01,
+    "convertedScore": 75.1
+  },
+  {
+    "max40": 1.5,
+    "max43": 1.8,
+    "max45": 2,
+    "convertedScore": 75
+  },
+  {
+    "max40": 1.49,
+    "max43": 1.79,
+    "max45": 1.99,
+    "convertedScore": 74.9
+  },
+  {
+    "max40": 1.48,
+    "max43": 1.78,
+    "max45": 1.98,
+    "convertedScore": 74.8
+  },
+  {
+    "max40": 1.47,
+    "max43": 1.77,
+    "max45": 1.97,
+    "convertedScore": 74.7
+  },
+  {
+    "max40": 1.46,
+    "max43": 1.76,
+    "max45": 1.96,
+    "convertedScore": 74.6
+  },
+  {
+    "max40": 1.45,
+    "max43": 1.75,
+    "max45": 1.95,
+    "convertedScore": 74.5
+  },
+  {
+    "max40": 1.49,
+    "max43": 1.74,
+    "max45": 1.94,
+    "convertedScore": 74.4
+  },
+  {
+    "max40": 1.43,
+    "max43": 1.73,
+    "max45": 1.93,
+    "convertedScore": 74.3
+  },
+  {
+    "max40": 1.42,
+    "max43": 1.72,
+    "max45": 1.92,
+    "convertedScore": 74.2
+  },
+  {
+    "max40": 1.41,
+    "max43": 1.71,
+    "max45": 1.91,
+    "convertedScore": 74.1
+  },
+  {
+    "max40": 1.4,
+    "max43": 1.7,
+    "max45": 1.9,
+    "convertedScore": 74
+  },
+  {
+    "max40": 1.39,
+    "max43": 1.69,
+    "max45": 1.89,
+    "convertedScore": 73.9
+  },
+  {
+    "max40": 1.38,
+    "max43": 1.68,
+    "max45": 1.88,
+    "convertedScore": 73.8
+  },
+  {
+    "max40": 1.37,
+    "max43": 1.67,
+    "max45": 1.87,
+    "convertedScore": 73.7
+  },
+  {
+    "max40": 1.36,
+    "max43": 1.66,
+    "max45": 1.86,
+    "convertedScore": 73.6
+  },
+  {
+    "max40": 1.35,
+    "max43": 1.65,
+    "max45": 1.85,
+    "convertedScore": 73.5
+  },
+  {
+    "max40": 1.34,
+    "max43": 1.64,
+    "max45": 1.84,
+    "convertedScore": 73.4
+  },
+  {
+    "max40": 1.33,
+    "max43": 1.63,
+    "max45": 1.83,
+    "convertedScore": 73.3
+  },
+  {
+    "max40": 1.32,
+    "max43": 1.62,
+    "max45": 1.82,
+    "convertedScore": 73.2
+  },
+  {
+    "max40": 1.31,
+    "max43": 1.61,
+    "max45": 1.81,
+    "convertedScore": 73.1
+  },
+  {
+    "max40": 1.3,
+    "max43": 1.6,
+    "max45": 1.8,
+    "convertedScore": 73
+  },
+  {
+    "max40": 1.29,
+    "max43": 1.59,
+    "max45": 1.79,
+    "convertedScore": 72.9
+  },
+  {
+    "max40": 1.28,
+    "max43": 1.58,
+    "max45": 1.78,
+    "convertedScore": 72.8
+  },
+  {
+    "max40": 1.27,
+    "max43": 1.57,
+    "max45": 1.77,
+    "convertedScore": 72.7
+  },
+  {
+    "max40": 1.26,
+    "max43": 1.56,
+    "max45": 1.76,
+    "convertedScore": 72.6
+  },
+  {
+    "max40": 1.25,
+    "max43": 1.55,
+    "max45": 1.75,
+    "convertedScore": 72.5
+  },
+  {
+    "max40": 1.24,
+    "max43": 1.54,
+    "max45": 1.74,
+    "convertedScore": 72.4
+  },
+  {
+    "max40": 1.23,
+    "max43": 1.53,
+    "max45": 1.73,
+    "convertedScore": 72.3
+  },
+  {
+    "max40": 1.22,
+    "max43": 1.52,
+    "max45": 1.72,
+    "convertedScore": 72.2
+  },
+  {
+    "max40": 1.21,
+    "max43": 1.51,
+    "max45": 1.71,
+    "convertedScore": 72.1
+  },
+  {
+    "max40": 1.2,
+    "max43": 1.5,
+    "max45": 1.7,
+    "convertedScore": 72
+  },
+  {
+    "max40": 1.19,
+    "max43": 1.49,
+    "max45": 1.69,
+    "convertedScore": 71.9
+  },
+  {
+    "max40": 1.18,
+    "max43": 1.48,
+    "max45": 1.68,
+    "convertedScore": 71.8
+  },
+  {
+    "max40": 1.17,
+    "max43": 1.47,
+    "max45": 1.67,
+    "convertedScore": 71.7
+  },
+  {
+    "max40": 1.16,
+    "max43": 1.46,
+    "max45": 1.66,
+    "convertedScore": 71.6
+  },
+  {
+    "max40": 1.15,
+    "max43": 1.45,
+    "max45": 1.65,
+    "convertedScore": 71.5
+  },
+  {
+    "max40": 1.14,
+    "max43": 1.44,
+    "max45": 1.64,
+    "convertedScore": 71.4
+  },
+  {
+    "max40": 1.13,
+    "max43": 1.43,
+    "max45": 1.63,
+    "convertedScore": 71.3
+  },
+  {
+    "max40": 1.12,
+    "max43": 1.42,
+    "max45": 1.62,
+    "convertedScore": 71.2
+  },
+  {
+    "max40": 1.11,
+    "max43": 1.41,
+    "max45": 1.61,
+    "convertedScore": 71.1
+  },
+  {
+    "max40": 1.1,
+    "max43": 1.4,
+    "max45": 1.6,
+    "convertedScore": 71
+  },
+  {
+    "max40": 1.09,
+    "max43": 1.39,
+    "max45": 1.59,
+    "convertedScore": 70.9
+  },
+  {
+    "max40": 1.08,
+    "max43": 1.38,
+    "max45": 1.58,
+    "convertedScore": 70.8
+  },
+  {
+    "max40": 1.07,
+    "max43": 1.37,
+    "max45": 1.57,
+    "convertedScore": 70.7
+  },
+  {
+    "max40": 1.06,
+    "max43": 1.36,
+    "max45": 1.56,
+    "convertedScore": 70.6
+  },
+  {
+    "max40": 1.05,
+    "max43": 1.35,
+    "max45": 1.55,
+    "convertedScore": 70.5
+  },
+  {
+    "max40": 1.04,
+    "max43": 1.34,
+    "max45": 1.54,
+    "convertedScore": 70.4
+  },
+  {
+    "max40": 1.03,
+    "max43": 1.33,
+    "max45": 1.53,
+    "convertedScore": 70.3
+  },
+  {
+    "max40": 1.02,
+    "max43": 1.32,
+    "max45": 1.52,
+    "convertedScore": 70.2
+  },
+  {
+    "max40": 1.01,
+    "max43": 1.31,
+    "max45": 1.51,
+    "convertedScore": 70.1
+  },
+  {
+    "max40": 1,
+    "max43": 1.3,
+    "max45": 1.5,
+    "convertedScore": 70
+  }
+]
